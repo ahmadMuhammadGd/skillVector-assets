@@ -1,0 +1,5374 @@
+{
+    "aws-api-gateway": [
+        "amazon-api-gateway"
+    ],
+    "amazon-athena": [
+        "athena",
+        "aws-athena"
+    ],
+    "cloud": [
+        "cloud-hosting"
+    ],
+    "ssms": [
+        "management-studio-express",
+        "management-studio",
+        "sql-management-studio",
+        "sql server management studio"
+    ],
+    "generics": [
+        "generic-programming",
+        "scala-generics",
+        "kotlin-generics",
+        "java-generics",
+        "swift-generics",
+        "generic-class"
+    ],
+    "gradient": [
+        "gradients"
+    ],
+    "forms-authentication": [
+        "formsauthentication",
+        "form-authentication"
+    ],
+    "guava": [
+        "google-guava-cache",
+        "guava-collections"
+    ],
+    "foreign-keys": [
+        "foreign-key-relationship",
+        "fk-relationship"
+    ],
+    "xmlhttprequest": [
+        "xmlhttp",
+        "xhr"
+    ],
+    "ipad": [
+        "ipad-splitview",
+        "ipad-ui"
+    ],
+    "string-formatting": [
+        "stringformat"
+    ],
+    "hadoop": [
+        "apache-hadoop"
+    ],
+    "mkmapview": [
+        "uimapview"
+    ],
+    "delay": [
+        "delayed"
+    ],
+    "extjs": [
+        "sencha"
+    ],
+    "reflection": [
+        "reflect"
+    ],
+    "kotlin-coroutines": [
+        "android-coroutine",
+        "kotlin-coroutines-flow",
+        "kotlinx.coroutines"
+    ],
+    "zooming": [
+        "page-zoom",
+        "image-zoom"
+    ],
+    "chef-infra": [
+        "chefdk",
+        "chef-recipe",
+        "chef12.0",
+        "chef-solo",
+        "chef",
+        "opscode"
+    ],
+    "entity-framework": [
+        "sql-to-entity-framework",
+        "fluent-entity-framework",
+        "entity-framework-designer",
+        "entity-framework-mapping"
+    ],
+    "boxplot": [
+        "whisker"
+    ],
+    "cell": [
+        "cells"
+    ],
+    "elastic-stack": [
+        "elk-stack"
+    ],
+    "big-o": [
+        "big-theta",
+        "o-notation"
+    ],
+    "advanced-custom-fields": [
+        "acf"
+    ],
+    "django-templates": [
+        "django-template-tags"
+    ],
+    "static": [
+        "static-vs-non-static"
+    ],
+    "android-volley": [
+        "volley"
+    ],
+    "unique": [
+        "uniqueness"
+    ],
+    "oracle10g": [
+        "10g"
+    ],
+    "ios-simulator": [
+        "iphone-simulator",
+        "ipad-simulator"
+    ],
+    "profiling": [
+        "profiling-tools"
+    ],
+    "codeigniter": [
+        "codeigniter-upload",
+        "codeigniter-hooks",
+        "codeigniter-helpers",
+        "codeigniter-hmvc",
+        "codeigniter-pagination",
+        "codeigniter-activerecord",
+        "codeigniter-validation",
+        "codeigniter-form-helper",
+        "codeigniter-routing",
+        "codeigniter-url"
+    ],
+    "delegates": [
+        "func-delegate"
+    ],
+    "synchronization": [
+        "synchronize",
+        "synchronisation",
+        "sync"
+    ],
+    "rest": [
+        "restapi",
+        "restful-architecture",
+        "rest-api"
+    ],
+    "security": [
+        "cybersecurity"
+    ],
+    "swift2": [
+        "swift2.3",
+        "swift2.2",
+        "swift2.2.1",
+        "swift2.1"
+    ],
+    "amazon-sns": [
+        "aws-sns"
+    ],
+    "macos": [
+        "osx"
+    ],
+    "ansible": [
+        "ansible-playbook"
+    ],
+    "linear-regression": [
+        "multiple-regression"
+    ],
+    "github-pages": [
+        "gh-pages"
+    ],
+    "precision": [
+        "finite-precision",
+        "numeric-precision",
+        "floating-point-precision"
+    ],
+    "t-sql": [
+        "tsql"
+    ],
+    "deployment": [
+        "web-deployment"
+    ],
+    "gitlab-ci-runner": [
+        "gitlab-runner"
+    ],
+    "reduce": [
+        "reducers"
+    ],
+    "java-8": [
+        "openjdk-8",
+        "jdk1.8.0",
+        "jdk1.8",
+        "jdk8"
+    ],
+    "aurelia": [
+        "aurelia-form",
+        "aurelia-ux",
+        "aurelia-testing",
+        "aurelia-bundling",
+        "aurelia-templating-router",
+        "aurelia-event-aggregator",
+        "aurelia-validation",
+        "aurelia-router",
+        "aurelia-navigation",
+        "aurelia-binding",
+        "aurelia-framework"
+    ],
+    "navigation-drawer": [
+        "android-navigation-drawer"
+    ],
+    "crash": [
+        "appcrash",
+        "crashes"
+    ],
+    "clojure": [
+        "cljx",
+        "cljc"
+    ],
+    "dialog": [
+        "dialogbox",
+        "dialogue"
+    ],
+    "sql-order-by": [
+        "order-by"
+    ],
+    "racket": [
+        "drracket"
+    ],
+    "text-files": [
+        "text-file"
+    ],
+    "3d": [
+        "3d-graphics"
+    ],
+    "websocket": [
+        "wss-websocket"
+    ],
+    "sequence": [
+        "seq",
+        "sequences"
+    ],
+    "php": [
+        "phpinfo",
+        "php-namespaces",
+        "php-include",
+        "phtml",
+        "php-fpm"
+    ],
+    "bundler": [
+        "gem-bundler"
+    ],
+    "entity-framework-migrations": [
+        "ef-migrations",
+        "code-first-migrations"
+    ],
+    "presto": [
+        "prestosql",
+        "prestodb"
+    ],
+    "angular": [
+        "angularjs2",
+        "angular4.x",
+        "angular4",
+        "angular2"
+    ],
+    "normalization": [
+        "normalisation"
+    ],
+    "paypal": [
+        "paypal-express",
+        "paypal-checkout",
+        "paypalmerchantsdk",
+        "paypal-sdk"
+    ],
+    "realm": [
+        "realm-net",
+        "realm-cocoa",
+        "android-realm",
+        "realmswift",
+        "realm.io"
+    ],
+    "odoo": [
+        "openerp"
+    ],
+    "web-crawler": [
+        "spider",
+        "crawl"
+    ],
+    "google-cloud-storage": [
+        "gcs"
+    ],
+    "std": [
+        "c++-standard-library"
+    ],
+    "asp.net-membership": [
+        "membership-provider"
+    ],
+    "list": [
+        "generic-list",
+        "list-comparison",
+        "python-list",
+        "ilist"
+    ],
+    "dart": [
+        "dart-sdk",
+        "dart-null-safety"
+    ],
+    "wamp": [
+        "wampserver"
+    ],
+    "pivot-table": [
+        "crosstab"
+    ],
+    "adb": [
+        "adb-shell",
+        "android-debug-bridge"
+    ],
+    "graph-theory": [
+        "graph-algorithm"
+    ],
+    "visual-c++": [
+        "microsoft-visual-c++",
+        "vc"
+    ],
+    "javascript": [
+        "vanillajs",
+        "vanilla-js",
+        "javascript-module",
+        "vanilla-javascript",
+        "javascript-runtime",
+        "javascript-library",
+        "javascript-disabled",
+        "javascript-dom",
+        "javascript-alert"
+    ],
+    "virtualhost": [
+        "virtualhosts",
+        "virtual-hosts"
+    ],
+    "pickle": [
+        "unpickling",
+        "cpickle",
+        "pickle-dump"
+    ],
+    "apache-kafka": [
+        "kafka-cluster",
+        "kafka"
+    ],
+    "css-animations": [
+        "keyframe",
+        "css-keyframes"
+    ],
+    "kafka-consumer-api": [
+        "kafka-consumer"
+    ],
+    "arguments": [
+        "args",
+        "argument"
+    ],
+    "activerecord": [
+        "activerecord-relation",
+        "active-record-query"
+    ],
+    "android-gradle-plugin": [
+        "android-gradle"
+    ],
+    "facebook-graph-api": [
+        "graph-api",
+        "facebook-graph"
+    ],
+    "sharedpreferences": [
+        "android-sharedpreferences"
+    ],
+    "driver": [
+        "drivers"
+    ],
+    "listener": [
+        "listeners"
+    ],
+    "pug": [
+        "pugjs",
+        "jade"
+    ],
+    "vuejs2": [
+        "vue2"
+    ],
+    "css-grid": [
+        "css-grids"
+    ],
+    "oop": [
+        "ood",
+        "oo",
+        "object-orientation",
+        "oo-design",
+        "object-oriented-modeling"
+    ],
+    "stack-overflow": [
+        "stackoverflowerror",
+        "stackoverflowexception"
+    ],
+    "scikit-learn": [
+        "sklearn",
+        "scikits-learn"
+    ],
+    "switch-statement": [
+        "switch",
+        "switch-case"
+    ],
+    "flutter": [
+        "flutter-provider",
+        "flutter-test",
+        "flutter-web",
+        "flutter-desktop",
+        "flutter-ios",
+        "flutter-android",
+        "flutter-widget",
+        "flutter-layout",
+        "flutter-sdk"
+    ],
+    "pandas": [
+        "pandas-2.x",
+        "pandas-1.x"
+    ],
+    "openai-api": [
+        "openai",
+        "chat-gpt",
+        "chatgpt"
+    ],
+    "google-maps-markers": [
+        "markers",
+        "marker"
+    ],
+    "firebase-authentication": [
+        "firebasesimplelogin",
+        "firebase-anonymous-authentication"
+    ],
+    "apache-beam": [
+        "apache-beam-pipeline"
+    ],
+    "timezone": [
+        "timezoneoffset"
+    ],
+    "scrapy": [
+        "scrapy-spider"
+    ],
+    "symbols": [
+        "symbol"
+    ],
+    "graphics": [
+        "graphic"
+    ],
+    "db2": [
+        "ibm-db2"
+    ],
+    "declaration": [
+        "declarations"
+    ],
+    "gnu-make": [
+        "gnumakefiles",
+        "gmake",
+        "gnumakefile"
+    ],
+    "mapkit": [
+        "mkmapkit"
+    ],
+    "ssl": [
+        "tls"
+    ],
+    "maui": [
+        ".net-maui"
+    ],
+    "path": [
+        "filepath",
+        "pathname"
+    ],
+    "google-cloud-dataflow": [
+        "dataflow",
+        "google-dataflow"
+    ],
+    "option-type": [
+        "optional",
+        "maybe"
+    ],
+    "gpu": [
+        "gpu-programming"
+    ],
+    "mocha.js": [
+        "mocha"
+    ],
+    "google-visualization": [
+        "google-timeline-chart",
+        "google-organization-chart",
+        "google-chartwrapper",
+        "google-linechart",
+        "google-geochart",
+        "google-charts-api",
+        "google-charts"
+    ],
+    "war": [
+        "war-files",
+        ".war"
+    ],
+    "formula": [
+        "formulas"
+    ],
+    "instance": [
+        "instances"
+    ],
+    "java.util.scanner": [
+        "java-util-scanner"
+    ],
+    "sql-server-2008-r2": [
+        "sql2008r2"
+    ],
+    "if-statement": [
+        "if-condition",
+        "if-clause",
+        "elseif",
+        "ifelse"
+    ],
+    "magento": [
+        "magento-widgets",
+        "magento-module"
+    ],
+    "roslyn": [
+        "roslyn-ctp"
+    ],
+    "decimal": [
+        "decimals"
+    ],
+    "html": [
+        "htm",
+        "html-syntax",
+        "html-head",
+        "html5",
+        "time-tag",
+        "webpage",
+        "span",
+        "html-comments",
+        "div-layouts"
+    ],
+    "hardware": [
+        "hardware-programming"
+    ],
+    "visual-studio-code": [
+        "vscode-settings",
+        "vscode"
+    ],
+    "file-upload": [
+        "image-uploading"
+    ],
+    "datagrid": [
+        "wpfdatagrid"
+    ],
+    "directory": [
+        "folder",
+        "folders",
+        "dir",
+        "directories"
+    ],
+    "element": [
+        "elements"
+    ],
+    "vuetify.js": [
+        "vuetify"
+    ],
+    "validation": [
+        "validating",
+        "data-validation",
+        "validator"
+    ],
+    "beautifulsoup": [
+        "bs4"
+    ],
+    "outlook": [
+        "outlook-express"
+    ],
+    "recaptcha": [
+        "google-recaptcha"
+    ],
+    "margin": [
+        "negative-margin"
+    ],
+    "twitter-bootstrap-3": [
+        "twitter-bootstrap-3.0",
+        "twitter-bootstrap-3.0.2"
+    ],
+    "return": [
+        "return-statement"
+    ],
+    "aws-glue": [
+        "amazon-glue",
+        "aws-glue-data-catalog",
+        "aws-glue-workflow",
+        "aws-glue-spark"
+    ],
+    "google-plus": [
+        "google-plus-one",
+        "google+"
+    ],
+    "gzip": [
+        "gz"
+    ],
+    "typeerror": [
+        "uncaught-typeerror"
+    ],
+    "basic-authentication": [
+        "http-basic-authentication"
+    ],
+    "format": [
+        "formats"
+    ],
+    "subdomain": [
+        "subdomains"
+    ],
+    "environment-variables": [
+        "env"
+    ],
+    "ionic-framework": [
+        "ionic"
+    ],
+    "interpolation": [
+        "interpolate"
+    ],
+    "automated-tests": [
+        "automated-testing"
+    ],
+    "iteration": [
+        "iterative"
+    ],
+    "windows-phone-8": [
+        "wp8"
+    ],
+    "passenger": [
+        "phusion-passenger"
+    ],
+    "doctrine": [
+        "phpdoctrine"
+    ],
+    "android-viewpager": [
+        "viewpager"
+    ],
+    "primes": [
+        "prime-number"
+    ],
+    "debugging": [
+        "debugger",
+        "debug"
+    ],
+    "passwords": [
+        "password"
+    ],
+    "mercurial": [
+        "hg"
+    ],
+    "query-optimization": [
+        "sql-optimization",
+        "sql-tuning",
+        "query-performance",
+        "query-tuning"
+    ],
+    "alias": [
+        "aliases"
+    ],
+    "ssis": [
+        "ssis-development",
+        "ssis-data-transformations",
+        "dtsx",
+        "integration-services"
+    ],
+    "authentication": [
+        "login",
+        "client-authentication",
+        "user-authentication",
+        "authenticate",
+        "auth",
+        "logon"
+    ],
+    "iterator": [
+        "listiterator"
+    ],
+    "apache-kafka-streams": [
+        "kafka-streams-scala",
+        "kafka-streams"
+    ],
+    "label": [
+        "labels"
+    ],
+    ".net-core": [
+        "dotnetcore",
+        "dotnet-core"
+    ],
+    "assets": [
+        "asset"
+    ],
+    "sbt": [
+        "simple-build-tool"
+    ],
+    "playframework-2.0": [
+        "playframework-2.x"
+    ],
+    "abstract-class": [
+        "abstract-classes"
+    ],
+    "token": [
+        "tokens"
+    ],
+    "abstract-syntax-tree": [
+        "ast"
+    ],
+    "compact-framework": [
+        "cf.net",
+        ".net-cf"
+    ],
+    "xmpp": [
+        "jabber"
+    ],
+    "numpy": [
+        "numpy-dtype",
+        "numpy-indexing"
+    ],
+    "lambda": [
+        "generic-lambda",
+        "lambdaexpression",
+        "lambda-functions"
+    ],
+    "google-sheets-formula": [
+        "google-sheets-vlookup",
+        "gs-vlookup",
+        "google-sheets-query",
+        "importrange",
+        "google-sheets-importxml"
+    ],
+    "amazon-rds": [
+        "rds",
+        "aws-rds"
+    ],
+    "data.table": [
+        "rbindlist"
+    ],
+    "azure-devops": [
+        "vsts",
+        "visual-studio-team-services",
+        "vs-team-services",
+        "visual-studio-online",
+        "vso",
+        "team-foundation-service",
+        "tfs-service"
+    ],
+    "metrics": [
+        "metric"
+    ],
+    "port": [
+        "ports"
+    ],
+    "highcharts": [
+        "highstock",
+        "highmaps"
+    ],
+    "visual-studio-2015": [
+        "visual-studio-2015-ce",
+        "visual-studio-2015-comm",
+        "vs-2015-preview",
+        "vs2015"
+    ],
+    "field": [
+        "fields"
+    ],
+    "subprocess": [
+        "python-subprocess-module"
+    ],
+    "google-maps-android-api-2": [
+        "android-maps-v2"
+    ],
+    "visual-studio-2022": [
+        "vs2022"
+    ],
+    "azure-pipelines": [
+        "azure-devops-pipelines",
+        "vsts-build",
+        "tfs-vnext",
+        "vso-build"
+    ],
+    "appcelerator": [
+        "appc"
+    ],
+    "jaxb": [
+        "jaxb2"
+    ],
+    "connection": [
+        "connections"
+    ],
+    "parameters": [
+        "param",
+        "params",
+        "parameter"
+    ],
+    "tfsbuild": [
+        "team-build",
+        "team-foundation-build"
+    ],
+    "win-universal-app": [
+        "windows-universal"
+    ],
+    "datatables": [
+        "jquery-datatables"
+    ],
+    "immutability": [
+        "immutable-class",
+        "immutable"
+    ],
+    "translation": [
+        "t9n"
+    ],
+    "data-modeling": [
+        "data-modelling"
+    ],
+    "apache": [
+        "httpd"
+    ],
+    "jpeg": [
+        "jpg"
+    ],
+    "binary-search-tree": [
+        "binary-search-trees",
+        "bst"
+    ],
+    "object": [
+        "objects"
+    ],
+    "cassandra": [
+        "apache-cassandra"
+    ],
+    "common-table-expression": [
+        "cte"
+    ],
+    "jsf-2": [
+        "jsf2.0"
+    ],
+    "xcode8": [
+        "xcode8-beta2",
+        "xcode8-beta3",
+        "xcode8-beta4",
+        "xcode8-beta5",
+        "xcode8-beta6",
+        "xcode8.2",
+        "xcode8.1",
+        "xcode8.3",
+        "xcode8.3.3",
+        "xcode8.3.2"
+    ],
+    "gatsby": [
+        "gatsbyjs"
+    ],
+    "shell": [
+        "shell-trap",
+        "shellscript"
+    ],
+    "material-ui": [
+        "mui"
+    ],
+    "apache-camel": [
+        "camel"
+    ],
+    "benchmarking": [
+        "code-timing"
+    ],
+    "toolbar": [
+        "toolbars"
+    ],
+    "contacts": [
+        "contact"
+    ],
+    "saml-2.0": [
+        "saml2"
+    ],
+    "knockout.js": [
+        "ko.observablearray",
+        "knockout",
+        "knockoutjs"
+    ],
+    "memory-management": [
+        "memory-deallocation",
+        "memory-allocation",
+        "memory-usage"
+    ],
+    "infinite-loop": [
+        "endless-loop"
+    ],
+    "classification": [
+        "classifier"
+    ],
+    "ggplot2": [
+        "ggplot",
+        "qplot"
+    ],
+    "com": [
+        "component-object-model"
+    ],
+    "network-programming": [
+        "networking",
+        "networks"
+    ],
+    "openid-connect": [
+        "openidc",
+        "oidc"
+    ],
+    "uipickerview": [
+        "uipicker"
+    ],
+    "entity-relationship": [
+        "entity-relationship-model"
+    ],
+    "server-side-rendering": [
+        "serverside-rendering",
+        "ssr"
+    ],
+    "android-relativelayout": [
+        "relativelayout"
+    ],
+    "sqlite": [
+        "sqlite3",
+        "sqlitedatabase"
+    ],
+    "controller": [
+        "controllers"
+    ],
+    "highlight": [
+        "highlighting"
+    ],
+    "function": [
+        "def"
+    ],
+    "apache-flink": [
+        "flink"
+    ],
+    "encryption": [
+        "deciphering",
+        "encrypted",
+        "data-encryption",
+        "cipher",
+        "decrypt"
+    ],
+    "android-support-library": [
+        "android-compat-lib"
+    ],
+    "dojo": [
+        "dojo-store",
+        "dojo-layer",
+        "dojo.stateful",
+        "dojo-require",
+        "dojo.data",
+        "dijit",
+        "dojox"
+    ],
+    "build.gradle": [
+        "build-gradle"
+    ],
+    "facebook-fql": [
+        "fql"
+    ],
+    "azure-synapse": [
+        "azure-sql-data-warehouse",
+        "azure-sqldw",
+        "azure-sql-pool",
+        "azure-synapse-link"
+    ],
+    "regex": [
+        "sql-regex",
+        "apache-regexp",
+        "regularexpression",
+        "perlre",
+        "perl-regex"
+    ],
+    "publish": [
+        "publishing"
+    ],
+    "command-line-arguments": [
+        "command-line-parsing",
+        "command-line-args"
+    ],
+    "babeljs": [
+        "babel"
+    ],
+    "flexbox": [
+        "flex",
+        "flex-direction",
+        "flex-grow",
+        "css-flexbox"
+    ],
+    "firebase-security": [
+        "firebase-security-rules",
+        "firestore-rules",
+        "firestore-security-rules"
+    ],
+    "mod-rewrite": [
+        "rewritemap",
+        "rewritebase"
+    ],
+    "popup": [
+        "pop-up"
+    ],
+    "compiler-construction": [
+        "compiler-design"
+    ],
+    "python-3.x": [
+        "py3",
+        "python3"
+    ],
+    "handler": [
+        "handlers"
+    ],
+    "currency": [
+        "money"
+    ],
+    "collections": [
+        "java-collections-api"
+    ],
+    "java-native-interface": [
+        "jni"
+    ],
+    "windows-subsystem-for-linux": [
+        "wsl-2",
+        "wsl",
+        "ubuntu-on-windows",
+        "windows-bash"
+    ],
+    "core-location": [
+        "cllocationmanager"
+    ],
+    "tensorflow2.0": [
+        "tensorflow2.x"
+    ],
+    "padding": [
+        "pad"
+    ],
+    "wordpress": [
+        "wordpress-admin",
+        "wordpress-upgrade",
+        "wpdb",
+        "wordpress-plugin",
+        "wp-query",
+        "wordpress-theme-customize",
+        "wordpress-mu",
+        "wordpress-plugin-dev",
+        "wordpress-filter",
+        "wordpress-widget",
+        "wordpress-loop",
+        "wordpress-permission"
+    ],
+    "prepared-statement": [
+        "parameterized-query",
+        "parameterized-queries",
+        "prepare"
+    ],
+    "web-applications": [
+        "offline-web-app"
+    ],
+    "join": [
+        "jointable"
+    ],
+    "connection-pooling": [
+        "connectionpool"
+    ],
+    "singleton": [
+        "singleton-methods",
+        "application-singleton"
+    ],
+    "elasticsearch": [
+        "elastic"
+    ],
+    "hex": [
+        "hexadecimal-notation"
+    ],
+    "polymorphism": [
+        "polymorphic"
+    ],
+    "reactjs": [
+        "react-component",
+        "react.js",
+        "react-jsx",
+        "react"
+    ],
+    "firebase": [
+        "firebase-android"
+    ],
+    "android-alertdialog": [
+        "alertdialog"
+    ],
+    "rounding": [
+        "number-rounding",
+        "round"
+    ],
+    "google-sheets-api": [
+        "google-spreadsheet-api"
+    ],
+    "servlets": [
+        "webservlet",
+        "servletcontext"
+    ],
+    "linker-errors": [
+        "link-errors",
+        "linking-errors"
+    ],
+    "matplotlib": [
+        "plt",
+        "pylab",
+        "pyplot"
+    ],
+    "swift3": [
+        "swift3.1",
+        "swift3.0.2",
+        "swift3.0.1",
+        "swift3.0"
+    ],
+    "sails.js": [
+        "sails",
+        "sailsjs"
+    ],
+    "django-orm": [
+        "django-many-to-many",
+        "django-multi-db"
+    ],
+    "android-edittext": [
+        "edittext"
+    ],
+    "loops": [
+        "iterate"
+    ],
+    "sms": [
+        "short-message-service"
+    ],
+    "cluster-analysis": [
+        "clustering",
+        "data-clustering"
+    ],
+    "header-files": [
+        "header-file"
+    ],
+    "slf4j": [
+        "slf4j-api"
+    ],
+    "scatter-plot": [
+        "scatter"
+    ],
+    "create-react-app": [
+        "cra",
+        "react-create-app"
+    ],
+    "date": [
+        "dob",
+        "date-of-birth",
+        "java-date"
+    ],
+    "atomic": [
+        "atomicity"
+    ],
+    "constants": [
+        "const"
+    ],
+    "amazon-cloudwatch": [
+        "amazon-cloudwatch-metrics",
+        "aws-cloudwatch",
+        "cloudwatch"
+    ],
+    "mysql": [
+        "mysql-if",
+        "mysqlsh",
+        "mysqldump",
+        "mysqlclient",
+        "mysqld",
+        "mysql-table",
+        "mysql-server"
+    ],
+    "video": [
+        "movies",
+        "movie"
+    ],
+    "repeat": [
+        "repetition",
+        "repeating"
+    ],
+    "aggregation-framework": [
+        "mongodb-aggregation"
+    ],
+    "dictionary": [
+        "map",
+        "dictionaries"
+    ],
+    "thread-safety": [
+        "thread-safe"
+    ],
+    "resize": [
+        "resizing"
+    ],
+    "system": [
+        "systems"
+    ],
+    "newline": [
+        "crlf"
+    ],
+    "reporting-services": [
+        "microsoft-reporting",
+        "ssrs-reports"
+    ],
+    "azure": [
+        "az"
+    ],
+    "laravel-4": [
+        "laravel-4.1"
+    ],
+    "gruntjs": [
+        "grunt-cli",
+        "grunt"
+    ],
+    "perl": [
+        "perl5"
+    ],
+    "okhttp": [
+        "okhttp3",
+        "okhttpclient"
+    ],
+    "coding-style": [
+        "code-conventions"
+    ],
+    "tensorflow": [
+        "tensorflow-gpu"
+    ],
+    "pip": [
+        "pip3"
+    ],
+    "url-rewriting": [
+        "urlrewriter",
+        "rewrite"
+    ],
+    "css-selectors": [
+        "last-of-type",
+        "first-of-type",
+        "css-combinators",
+        "nth-of-type",
+        "css-sibling",
+        "last-child",
+        "first-child",
+        "nth-child",
+        "selectors",
+        "pseudo-selectors"
+    ],
+    "async-await": [
+        ".net-async-await",
+        "await",
+        "async-ctp"
+    ],
+    "python-requests": [
+        "requests"
+    ],
+    "processing": [
+        "processing.org"
+    ],
+    "iis-7": [
+        "iis7"
+    ],
+    "x86": [
+        "i386",
+        "pentium",
+        "ia-32",
+        "ia32",
+        "80x86"
+    ],
+    "simplexml": [
+        "simplexml-load-string",
+        "simplexmlelement"
+    ],
+    "aem": [
+        "cq5",
+        "day-cq"
+    ],
+    "kubernetes-helm": [
+        "helm"
+    ],
+    "admob": [
+        "google-admob"
+    ],
+    "shapes": [
+        "shape"
+    ],
+    "message": [
+        "messages"
+    ],
+    "materialize": [
+        "materialize-js",
+        "materialize-css",
+        "materializecss"
+    ],
+    "azure-active-directory": [
+        "azuread"
+    ],
+    "ipc": [
+        "inter-process-communicat"
+    ],
+    "statistics": [
+        "statistical-analysis",
+        "stats"
+    ],
+    "command-line-interface": [
+        "cli"
+    ],
+    "image": [
+        "pictures",
+        "picture",
+        "img"
+    ],
+    "android-arrayadapter": [
+        "arrayadapter"
+    ],
+    "shared-memory": [
+        "shm"
+    ],
+    "menu": [
+        "menus"
+    ],
+    "stream": [
+        "streams"
+    ],
+    "elisp": [
+        "emacs-lisp"
+    ],
+    "protocols": [
+        "protocol"
+    ],
+    "uinavigationcontroller": [
+        "navigationcontroller",
+        "uinavigation"
+    ],
+    "key-value": [
+        "keyvaluepair"
+    ],
+    "tableau-api": [
+        "tableau-public",
+        "tableau-online",
+        "tableau-server",
+        "tableau"
+    ],
+    "vuejs3": [
+        "vue3"
+    ],
+    "apache-spark-sql": [
+        "pyspark-sql",
+        "spark-sql",
+        "spark-dataframe"
+    ],
+    "amazon-ecs": [
+        "ec2-container-service",
+        "aws-ecs",
+        "ecs"
+    ],
+    "amazon-cloudfront": [
+        "aws-cloudfront",
+        "cloudfront"
+    ],
+    "julia": [
+        "julialang",
+        "julia-lang"
+    ],
+    "glob": [
+        "globbing"
+    ],
+    "relationship": [
+        "relationships"
+    ],
+    "bit-manipulation": [
+        "bit-fiddling",
+        "bitwise",
+        "bit-twiddling"
+    ],
+    "slider": [
+        "sliders"
+    ],
+    "google-cloud-datastore": [
+        "google-datastore",
+        "gae-datastore"
+    ],
+    "kernel": [
+        "kernel-programming"
+    ],
+    "winapi": [
+        "windows-sdk",
+        "window-api"
+    ],
+    "properties": [
+        "property"
+    ],
+    "gitlab-ci": [
+        "gitlab-pipelines"
+    ],
+    "anchor": [
+        "anchor-tag"
+    ],
+    "google-cloud-firestore": [
+        "firebasefirestore",
+        "firebase-cloud-firestore",
+        "cloud-firestore",
+        "firestore",
+        "firebase-firestore"
+    ],
+    "apk": [
+        "android-install-apk"
+    ],
+    "wifi": [
+        "wlan",
+        "802.11",
+        "wificonfiguration",
+        "wifi-configuration"
+    ],
+    "entity-framework-core": [
+        "efcore",
+        "ef-core",
+        "entity-framework-7"
+    ],
+    "random": [
+        "java.util.random",
+        "rng",
+        "random-sample",
+        "prng"
+    ],
+    "trigonometry": [
+        "sin",
+        "sine",
+        "cosine",
+        "cos",
+        "tan"
+    ],
+    "asynchronous": [
+        "asynchronously",
+        "asynchronous-processing"
+    ],
+    "view": [
+        "views"
+    ],
+    "data-binding": [
+        "wpf-binding"
+    ],
+    "grep": [
+        "pgrep"
+    ],
+    "dom": [
+        "htmldocument"
+    ],
+    "amazon-dynamodb": [
+        "aws-dynamodb",
+        "dynamodb"
+    ],
+    "visual-studio-2019": [
+        "vs2019",
+        "vs-2019"
+    ],
+    "swiftui": [
+        "swiftui-bug"
+    ],
+    "google-calendar-api": [
+        "google-calendar-reminders",
+        "google-calendar-recurring-events",
+        "gcal",
+        "google-calendar-api3"
+    ],
+    "google-sheets": [
+        "google-sheets-export-url",
+        "google-sheets-charts",
+        "google-sheets-filter-view",
+        "gs-conditional-formatting",
+        "google-sheets-conditionalformatting",
+        "gs",
+        "google-spreadsheet"
+    ],
+    "installation": [
+        "installer",
+        "install",
+        "installing",
+        "setup"
+    ],
+    "autohotkey": [
+        "ahk"
+    ],
+    "dynamic-memory-allocation": [
+        "dynamic-allocation"
+    ],
+    "vim": [
+        "viml",
+        "vimscript"
+    ],
+    "xamarin.forms": [
+        "xamarin-forms"
+    ],
+    "django-urls": [
+        "urls.py"
+    ],
+    "slice": [
+        "string-slice",
+        "array-slice",
+        "slices",
+        "slicing"
+    ],
+    "tfs": [
+        "azure-devops-server",
+        "team-foundation-server",
+        "team-foundation"
+    ],
+    "xcode4": [
+        "xcode4.5"
+    ],
+    "wso2": [
+        "wso2carbon"
+    ],
+    "decorator": [
+        "decorator-pattern",
+        "decorators"
+    ],
+    "discord.py": [
+        "discord.py-rewrite"
+    ],
+    "clang": [
+        "llvm-clang"
+    ],
+    "routes": [
+        "routing",
+        "custom-routes",
+        "route"
+    ],
+    "sql-insert": [
+        "insert-into"
+    ],
+    "integration-testing": [
+        "integration-tests"
+    ],
+    "recurrent-neural-network": [
+        "rnn"
+    ],
+    "overriding": [
+        "function-overriding",
+        "method-overriding",
+        "overrides",
+        "override"
+    ],
+    "blob": [
+        "blobs"
+    ],
+    "overlay": [
+        "overlays"
+    ],
+    "next.js": [
+        "nextjs"
+    ],
+    "eclipse-cdt": [
+        "cdt"
+    ],
+    "wxwidgets": [
+        "wx"
+    ],
+    "passport.js": [
+        "passportjs"
+    ],
+    "jquery-mobile": [
+        "jqm"
+    ],
+    "ssrs-2008": [
+        "reportingservices-2008"
+    ],
+    "visual-studio-2008": [
+        "vs2008"
+    ],
+    "linq-to-xml": [
+        "xelement",
+        "xdocument",
+        "xlinq"
+    ],
+    "replace": [
+        "str-replace",
+        "replacement",
+        "string-replacement",
+        "text-replacement",
+        "find-and-replace",
+        "search-and-replace"
+    ],
+    "google-places-api": [
+        "google-places"
+    ],
+    "wso2-api-manager": [
+        "api-manager",
+        "wso2-apim",
+        "wso2-am"
+    ],
+    "jestjs": [
+        "jest"
+    ],
+    "python-asyncio": [
+        "asyncio"
+    ],
+    "roles": [
+        "role"
+    ],
+    "onedrive": [
+        "onedrive-api"
+    ],
+    "wav": [
+        ".wav"
+    ],
+    "crystal-reports": [
+        "sap-crystal-reports",
+        "crystal",
+        "crystal-report"
+    ],
+    "microsoft-dynamics": [
+        "dynamics"
+    ],
+    "set": [
+        "sets"
+    ],
+    "user-interface": [
+        "gui"
+    ],
+    "facebook-javascript-sdk": [
+        "facebook-jssdk"
+    ],
+    "x86-64": [
+        "amd64"
+    ],
+    "vectorization": [
+        "vectorize",
+        "vectorizing"
+    ],
+    "hashmap": [
+        "hashmaps"
+    ],
+    "ascii": [
+        "us-ascii"
+    ],
+    "content-security-policy": [
+        "csp"
+    ],
+    "aws-cdk": [
+        "aws-cdk-python",
+        "cdk"
+    ],
+    "google-drive-api": [
+        "google-drive-android-api",
+        "gdrive",
+        "google-drive-api-v3",
+        "google-drive-sdk",
+        "google-drive"
+    ],
+    "global": [
+        "globals"
+    ],
+    "mapping": [
+        "maping",
+        "mappings"
+    ],
+    "dotnetnuke": [
+        "dnn-module",
+        "dotnetnuke-module",
+        "dotnetnuke-settings"
+    ],
+    "sapui5": [
+        "sapui5-smart-table",
+        "ui5-library",
+        "sapui5-smarttable",
+        "sapui5-opa",
+        "sapui5-smartfield",
+        "sapui5-theming",
+        "openui5",
+        "sapui",
+        "ui5"
+    ],
+    "plotly-dash": [
+        "python-dash"
+    ],
+    "android-livedata": [
+        "android-architecture-livedata",
+        "livedata"
+    ],
+    "design-patterns": [
+        "gang-of-four",
+        "gof"
+    ],
+    "angularjs-ng-repeat": [
+        "ng-repeat"
+    ],
+    "multipartform-data": [
+        "multipart-form"
+    ],
+    "plotly": [
+        "plotly-python",
+        "r-plotly"
+    ],
+    "latitude-longitude": [
+        "lat-long"
+    ],
+    "awk": [
+        "awk-formatting",
+        "mawk",
+        "nawk",
+        "gawk"
+    ],
+    "youtube-data-api": [
+        "youtube-api-v3",
+        "youtube-data-api-v3",
+        "youtube-v3-api"
+    ],
+    "google-play-services": [
+        "google-services-json",
+        "google-services"
+    ],
+    "contains": [
+        "contain"
+    ],
+    "type-conversion": [
+        "typeconverting",
+        "data-type-conversion"
+    ],
+    "aws-cloudformation": [
+        "amazon-cloudformation",
+        "cloudformation"
+    ],
+    "exchangewebservices": [
+        "exchangews",
+        "ews"
+    ],
+    "google-play": [
+        "google-play-store",
+        "market",
+        "android-market"
+    ],
+    "range": [
+        "ranges"
+    ],
+    "sonarqube": [
+        "sonar"
+    ],
+    "yaml": [
+        "yml"
+    ],
+    "playframework": [
+        "play-mvc"
+    ],
+    "automatic-ref-counting": [
+        "objc-arc",
+        "arc"
+    ],
+    "gmail": [
+        "google-mail"
+    ],
+    "swing": [
+        "javax.swing"
+    ],
+    "linux": [
+        "linux-development"
+    ],
+    "elementtree": [
+        "xml.etree"
+    ],
+    "elixir": [
+        "elixir-framework",
+        "elixir-lang"
+    ],
+    "wxpython": [
+        "wxpython-phoenix"
+    ],
+    "ms-word": [
+        "winword"
+    ],
+    "geometry": [
+        "circle"
+    ],
+    "broadcastreceiver": [
+        "android-broadcastreceiver"
+    ],
+    "web": [
+        "website"
+    ],
+    "ajax": [
+        "ajax-request"
+    ],
+    "stata": [
+        "mata"
+    ],
+    "json": [
+        "jsonobject",
+        "json-decode",
+        "json-encode"
+    ],
+    "multiple-columns": [
+        "multi-column"
+    ],
+    "audio": [
+        "sounds",
+        "sound-api"
+    ],
+    "performance": [
+        "slow-load",
+        "code-efficiency",
+        "performance-monitoring",
+        "performance-measurement",
+        "slowness",
+        "tuning",
+        "application-performance",
+        "android-performance",
+        "javascript-performance",
+        "jquery-performance",
+        "linq-performance",
+        "wcf-performance"
+    ],
+    "jodatime": [
+        "joda"
+    ],
+    "program-entry-point": [
+        "main-method",
+        "main-function",
+        "main"
+    ],
+    "wso2-esb": [
+        "wso2esb"
+    ],
+    "dataframe": [
+        "df",
+        "r-df",
+        "pandas-df",
+        "data.frame",
+        "dataframes",
+        "data-frame"
+    ],
+    "pagination": [
+        "paginate"
+    ],
+    "phpunit": [
+        "phpunit-testing"
+    ],
+    "power-automate": [
+        "powerautomate",
+        "microsoft-flow",
+        "ms-flow"
+    ],
+    "material-design": [
+        "material-theme"
+    ],
+    "conditional-statements": [
+        "condition",
+        "conditions",
+        "conditionals",
+        "conditional"
+    ],
+    "limit": [
+        "limits"
+    ],
+    "package": [
+        "packages"
+    ],
+    "lotus-notes": [
+        "ibm-notes"
+    ],
+    "karma-runner": [
+        "karma",
+        "testacular"
+    ],
+    "textures": [
+        "texture"
+    ],
+    "xampp": [
+        "xammp"
+    ],
+    "multithreading": [
+        "cross-threading"
+    ],
+    "android-source": [
+        "aosp"
+    ],
+    "documentation": [
+        "docs"
+    ],
+    "posix": [
+        "posix-api"
+    ],
+    "android-activity": [
+        "main-activity",
+        "activity"
+    ],
+    "64-bit": [
+        "64bit",
+        "x64"
+    ],
+    "textview": [
+        "android-textview"
+    ],
+    "psycopg2": [
+        "psycopg"
+    ],
+    "python-unittest": [
+        "pyunit"
+    ],
+    "client": [
+        "clients"
+    ],
+    "apache-nifi": [
+        "nifi"
+    ],
+    "cron": [
+        "crontab",
+        "cronexpression",
+        "cronjob"
+    ],
+    "firemonkey": [
+        "fmx"
+    ],
+    "git-submodules": [
+        "submodules",
+        "submodule"
+    ],
+    "apache-pig": [
+        "piglatin",
+        "pig"
+    ],
+    "variables": [
+        "vars",
+        "variable"
+    ],
+    "webforms": [
+        "asp.net-webforms",
+        "webform"
+    ],
+    "sass": [
+        "scss"
+    ],
+    "content-management-system": [
+        "cms"
+    ],
+    "windows-8": [
+        "windows-8-preview"
+    ],
+    "google-api": [
+        "google-apis"
+    ],
+    "openxml": [
+        "ooxml"
+    ],
+    "salesforce": [
+        "salesforce.com"
+    ],
+    "xsd": [
+        "xmlschema",
+        "xml-schema"
+    ],
+    "extract": [
+        "data-extraction",
+        "extraction"
+    ],
+    "java-11": [
+        "openjdk-11",
+        "jdk11"
+    ],
+    "google-oauth": [
+        "google-authentication",
+        "google-oauth2",
+        "google-api-oauth"
+    ],
+    "master-pages": [
+        "site.master",
+        "masterpage"
+    ],
+    "vercel": [
+        "zeit",
+        "zeit-now",
+        "nowjs"
+    ],
+    "amazon-sqs": [
+        "aws-sqs"
+    ],
+    "cordova": [
+        "apache-cordova"
+    ],
+    "delphi": [
+        "object-pascal"
+    ],
+    "jenkins-pipeline": [
+        "jenkinsfile",
+        "jenkins-workflow"
+    ],
+    "google-maps-api-3": [
+        "google-maps-api-v3"
+    ],
+    "entity-framework-6": [
+        "entity-framework-6.1",
+        "ef6"
+    ],
+    "node.js": [
+        "io.js",
+        "nodejs"
+    ],
+    "pass-by-reference": [
+        "call-by-reference"
+    ],
+    "left-join": [
+        "left-outer-join"
+    ],
+    "indentation": [
+        "indent"
+    ],
+    "android-intent": [
+        "android-intent-flags"
+    ],
+    "load-testing": [
+        "loadtest"
+    ],
+    "kendo-ui": [
+        "kendo"
+    ],
+    "python-itertools": [
+        "itertools"
+    ],
+    "row": [
+        "rows"
+    ],
+    "protocol-buffers": [
+        "proto",
+        "google-protocol-buffer",
+        "google-protobuf",
+        "protobufs"
+    ],
+    "svelte": [
+        "svelte.js"
+    ],
+    "composer-php": [
+        "composer.json"
+    ],
+    "autolayout": [
+        "ios-autolayout",
+        "nsautolayout"
+    ],
+    "java": [
+        "java-api",
+        "javax",
+        "openjdk",
+        "oraclejdk",
+        "java-libraries",
+        "jre"
+    ],
+    "radio-button": [
+        "radiobutton",
+        "option-button",
+        "optionbutton"
+    ],
+    "tcp": [
+        "tcp-ip"
+    ],
+    "product": [
+        "products"
+    ],
+    "emulation": [
+        "emulator",
+        "emulate"
+    ],
+    "substring": [
+        "substrings"
+    ],
+    "jquery-ui-sortable": [
+        "jquery-sortable",
+        "sortable"
+    ],
+    "swift": [
+        "swift1.2",
+        "swift-ios",
+        "swift-language"
+    ],
+    "enums": [
+        "enumerations"
+    ],
+    "math": [
+        "calculation"
+    ],
+    "google-forms": [
+        "google-form-api",
+        "google-form-quiz",
+        "google-form"
+    ],
+    "google-bigquery": [
+        "bq",
+        "bigquery",
+        "bigquery-standard-sql",
+        "bigquery-ml",
+        "python-bigquery",
+        "google-bigquery-ml"
+    ],
+    "r": [
+        "base-r"
+    ],
+    "emacs": [
+        "multi-term"
+    ],
+    "webclient": [
+        "webclient-download"
+    ],
+    "stripe-payments": [
+        "stripe-webhooks",
+        "stripe-cli",
+        "stripe-invoices",
+        "stripe-payout",
+        "stripe-elements",
+        "stripe-subscriptions",
+        "dj-stripe",
+        "stripe-terminal",
+        "stripe-checkout",
+        "stripe-api",
+        "react-stripe-elements",
+        "react-native-stripe-api",
+        "stripe-react-native",
+        "stripe-testing",
+        "stripe-ruby",
+        "stripe-billing"
+    ],
+    "serialization": [
+        "serializer"
+    ],
+    "pointers": [
+        "unsafe-pointers",
+        "pointer-address",
+        "ptr"
+    ],
+    "facebook": [
+        "fbconnect",
+        "facebook-sdk-ios",
+        "facebook-connect",
+        "facebook-application",
+        "facebook-sdk",
+        "facebook-api"
+    ],
+    "aws-amplify": [
+        "amplify"
+    ],
+    "greatest-n-per-group": [
+        "top-n",
+        "groupwise-maximum"
+    ],
+    "turtle-graphics": [
+        "turtle"
+    ],
+    "deep-linking": [
+        "deeplink"
+    ],
+    "doctrine-orm": [
+        "doctrine2"
+    ],
+    "utf-8": [
+        "utf8-decode"
+    ],
+    "amazon-ec2": [
+        "aws-ec2"
+    ],
+    "django-forms": [
+        "django-modelformsets",
+        "django-modelform",
+        "django-modelforms",
+        "django-formsets"
+    ],
+    "sql-server": [
+        "sql-srever"
+    ],
+    "initialization": [
+        "uninitialized"
+    ],
+    "modal-dialog": [
+        "modal"
+    ],
+    "save": [
+        "saving"
+    ],
+    "shader": [
+        "shaders"
+    ],
+    "less": [
+        "lesscss"
+    ],
+    "google-maps": [
+        "gmaps"
+    ],
+    "grails": [
+        "groovygrails"
+    ],
+    "gwt": [
+        "google-web-toolkit"
+    ],
+    "next.js13": [
+        "nextjs13"
+    ],
+    "spring-mvc": [
+        "spring-mvc-initbinders",
+        "spring-web"
+    ],
+    "fft": [
+        "ifft",
+        "fourier",
+        "fourier-transform"
+    ],
+    "firebase-realtime-database": [
+        "firebase-database"
+    ],
+    "nested": [
+        "nesting"
+    ],
+    "each": [
+        ".each"
+    ],
+    "binary": [
+        "binary-system",
+        "binary-number"
+    ],
+    "stack": [
+        "stacks"
+    ],
+    "import": [
+        "imports",
+        "importing"
+    ],
+    "reference": [
+        "references",
+        "php-references"
+    ],
+    "linq-to-entities": [
+        "l2e"
+    ],
+    "html-lists": [
+        "ol",
+        "li",
+        "ul",
+        "ordered-list",
+        "unordered-list"
+    ],
+    "wcf": [
+        "wcf-service"
+    ],
+    "apache-flex": [
+        "flex-sdk"
+    ],
+    "computer-science": [
+        "cs"
+    ],
+    "casting": [
+        "type-casting",
+        "cast",
+        "typecast"
+    ],
+    "xpath": [
+        "xpath-expression"
+    ],
+    "events": [
+        "event"
+    ],
+    "google-apps-script": [
+        "appscript",
+        "google-apps-script-html-service",
+        "gas-web-app",
+        "google-apps-script-web-application",
+        "google-apps-script-simple-triggers",
+        "gs-installable-triggers",
+        "gmail-addons",
+        "advanced-google-services",
+        "gsuite-addons",
+        "google-apps-script-addon",
+        "google-sheets-custom-function",
+        "google-apps-script-editor",
+        "google-apps-script-project",
+        "google-apps-script-dashboard",
+        "google-sheets-macros",
+        "google-apps-script-libraries",
+        "google-apps-script-runtime",
+        "google-apps-script-menu",
+        "googlescript",
+        "google-script"
+    ],
+    "react-native": [
+        "react-native-web",
+        "react-native-ios",
+        "react-native-android",
+        "reactjs-native"
+    ],
+    "json.net": [
+        "jsonconvert"
+    ],
+    "subquery": [
+        "nested-queries",
+        "nested-query"
+    ],
+    "laravel-blade": [
+        "laravel-views"
+    ],
+    "c++": [
+        "cxx"
+    ],
+    "splash-screen": [
+        "splash"
+    ],
+    "alexa-skills-kit": [
+        "alexa-app",
+        "alexa-skill"
+    ],
+    "google-app-engine": [
+        "google-app-engine-python",
+        "google-app-engine-java"
+    ],
+    "tabs": [
+        "tabpanel"
+    ],
+    "augmented-reality": [
+        "ar"
+    ],
+    "dialogflow-es": [
+        "dialogflow",
+        "api.ai"
+    ],
+    "bootstrap-4": [
+        "twitter-bootstrap-4-beta",
+        "bootstrap-4.1.x",
+        "twitter-bootstrap-4"
+    ],
+    "hash": [
+        "digest",
+        "string-hashing",
+        "hashalgorithm",
+        "hashes",
+        "hashing"
+    ],
+    "aws-sdk": [
+        "amazon-sdk"
+    ],
+    "external": [
+        "externals"
+    ],
+    "append": [
+        "appendto"
+    ],
+    "fork": [
+        "forking"
+    ],
+    "vba": [
+        "macros-vba",
+        "vba-macros"
+    ],
+    "process": [
+        "processes"
+    ],
+    "neo4j": [
+        "neo4j2.0"
+    ],
+    "drop-down-menu": [
+        "selectbox",
+        "drop-down",
+        "dropdownlist"
+    ],
+    "zeromq": [
+        "zmq"
+    ],
+    "ruby-on-rails-3": [
+        "ror3"
+    ],
+    "attachment": [
+        "attachments"
+    ],
+    "azure-aks": [
+        "azure-kubernetes-service",
+        "aks",
+        "azure-kubernetes"
+    ],
+    "makefile": [
+        "makefile-project",
+        "makefile-errors",
+        "make"
+    ],
+    "cypress": [
+        "cypressio"
+    ],
+    "csrf": [
+        "csrf-protection"
+    ],
+    "vue.js": [
+        "vue-js",
+        "vue",
+        "vuejs"
+    ],
+    "jquery": [
+        "jquery-effects",
+        "jquery-filter",
+        "jquery-css",
+        "jquery-find",
+        "jquery-post",
+        "jquery-get",
+        "jquery-hasclass",
+        "jquery-after",
+        "jquery-callback",
+        "removeclass",
+        "toggleclass",
+        "addclass"
+    ],
+    "r-markdown": [
+        "rmarkdown"
+    ],
+    "scanf": [
+        "fscanf",
+        "sscanf"
+    ],
+    "aws-lambda": [
+        "amazon-lambda"
+    ],
+    "duplicates": [
+        "no-duplicates",
+        "ignore-duplicates",
+        "deduplication"
+    ],
+    "jquery-events": [
+        "jquery-click-event",
+        "jquery-on"
+    ],
+    "project-reactor": [
+        "reactor"
+    ],
+    "this": [
+        "this-keyword"
+    ],
+    "bootstrap-5": [
+        "twitter-bootstrap-5"
+    ],
+    "blazor-webassembly": [
+        "blazor-client-side"
+    ],
+    "azure-web-app-service": [
+        "azure-web-sites",
+        "azure-app-service",
+        "azure-web-apps"
+    ],
+    "triggers": [
+        "database-trigger",
+        "sql-triggers"
+    ],
+    "build": [
+        "build-process"
+    ],
+    "linq": [
+        "linq-query-syntax",
+        "language-integrated-query"
+    ],
+    "core-graphics": [
+        "quartz-graphics"
+    ],
+    "nlp": [
+        "natural-language-processing",
+        "text-analysis"
+    ],
+    "download": [
+        "downloading",
+        "file-download"
+    ],
+    "transition": [
+        "transitions"
+    ],
+    "windows": [
+        "windows-applications"
+    ],
+    "aop": [
+        "aspect-oriented"
+    ],
+    "system-calls": [
+        "syscall"
+    ],
+    "printf": [
+        "vswprintf",
+        "vsnprintf",
+        "vsprintf",
+        "snprintf",
+        "fprintf",
+        "sprintf"
+    ],
+    "indexing": [
+        "indexes"
+    ],
+    "google-analytics-api": [
+        "google-analytics-data-api",
+        "google-data-api"
+    ],
+    "react-context": [
+        "use-context",
+        "context-api"
+    ],
+    "simulation": [
+        "simulate"
+    ],
+    "blogger": [
+        "blogspot"
+    ],
+    "android-espresso": [
+        "espresso",
+        "android-test-kit"
+    ],
+    "panel": [
+        "panels"
+    ],
+    "default": [
+        "defaults"
+    ],
+    "flash": [
+        "flash-ide",
+        "flash-player",
+        "swf",
+        "adobe-flash"
+    ],
+    "jquery-select2": [
+        "select2"
+    ],
+    "traits": [
+        "trait"
+    ],
+    "subset": [
+        "subsetting"
+    ],
+    "combobox": [
+        "comboboxes"
+    ],
+    "block": [
+        "blocks"
+    ],
+    "cluster-computing": [
+        "clusters",
+        "cluster"
+    ],
+    "alignment": [
+        "align"
+    ],
+    "for-loop": [
+        "for"
+    ],
+    "recursion": [
+        "recursive"
+    ],
+    "sql-server-2005": [
+        "sql2005",
+        "mssql2005"
+    ],
+    "connection-string": [
+        "connectionstrings"
+    ],
+    "app-config": [
+        "app.config"
+    ],
+    "linkedin-api": [
+        "linkedin"
+    ],
+    "interrupt": [
+        "isr",
+        "irq",
+        "interrupt-handling",
+        "interrupts"
+    ],
+    "blazor": [
+        "asp.net-blazor"
+    ],
+    "google-signin": [
+        "googlesigninapi",
+        "google-login"
+    ],
+    "facebook-opengraph": [
+        "open-graph-protocol",
+        "opengraph"
+    ],
+    "data-cleaning": [
+        "data-cleansing"
+    ],
+    "categories": [
+        "category"
+    ],
+    "coordinates": [
+        "coordinate"
+    ],
+    "azure-application-insights": [
+        "ms-application-insights",
+        "az-application-insights"
+    ],
+    "visual-studio-2017": [
+        "vs2017"
+    ],
+    "animation": [
+        "scaleanimation",
+        "rotateanimation",
+        "animated"
+    ],
+    "itext": [
+        "itextsharp",
+        "itextpdf"
+    ],
+    "sql-server-2008": [
+        "ssms-2008",
+        "mssql2008"
+    ],
+    "momentjs": [
+        "moment.js"
+    ],
+    "ms-access": [
+        "accdb",
+        "mdb",
+        "microsoft-access"
+    ],
+    "javabeans": [
+        "bean",
+        "beans"
+    ],
+    "merge": [
+        "merging"
+    ],
+    "arrays": [
+        "array-of-dict",
+        "chararray",
+        "arrayofstring",
+        "arraycopy",
+        "bytearray",
+        "static-array",
+        "swift-array",
+        "character-arrays",
+        "sub-arrays"
+    ],
+    "query-string": [
+        "queryparam",
+        "query-parameters"
+    ],
+    "dynamics-crm": [
+        "xrm"
+    ],
+    "vite": [
+        "vitejs"
+    ],
+    "nuxt.js": [
+        "nuxtjs",
+        "nuxt"
+    ],
+    "stanford-nlp": [
+        "glove",
+        "stanford-stanza",
+        "pycorenlp",
+        "stanford-nlp-server",
+        "corenlp-server",
+        "stanford-parser",
+        "corenlp"
+    ],
+    "twitter": [
+        "twitter-rest-api"
+    ],
+    "where-clause": [
+        "where"
+    ],
+    "visual-studio-2013": [
+        "vs-2013",
+        "vs2013-update-4",
+        "vs-2013-update-2",
+        "vs-2013-preview"
+    ],
+    "actionscript-3": [
+        "as3-api"
+    ],
+    "meteor": [
+        "meteor.js"
+    ],
+    "azure-ad-b2c": [
+        "aad-b2c",
+        "azure-b2c",
+        "azure-directory-b2c"
+    ],
+    "discord": [
+        "discord-bot",
+        "discordapp"
+    ],
+    "mysqli": [
+        "mysqli-fetch-array",
+        "php-mysqli"
+    ],
+    "wso2-identity-server": [
+        "wso2-is",
+        "wso2is"
+    ],
+    "spring": [
+        "spring-java-config",
+        "spring-config"
+    ],
+    "homebrew": [
+        "brew"
+    ],
+    "travis-ci": [
+        "travis"
+    ],
+    "parent": [
+        "parents"
+    ],
+    "wear-os": [
+        "android-wear",
+        "wearos"
+    ],
+    "oauth-2.0": [
+        "oauth2"
+    ],
+    "selenium-chromedriver": [
+        "chromedriver"
+    ],
+    "socket.io": [
+        "socketio"
+    ],
+    "ios4": [
+        "iphone-sdk-4",
+        "iphone-sdk-4.0",
+        "ios4.1",
+        "ios4.3",
+        "ios4.0.1",
+        "iphone-os-4.0",
+        "iphone-os-4"
+    ],
+    "underscore.js": [
+        "underscore"
+    ],
+    "mocking": [
+        "mocking-framework"
+    ],
+    "ruby-on-rails": [
+        "ror"
+    ],
+    "mysql-python": [
+        "mysqldb"
+    ],
+    "jpa": [
+        "jakarta.persistence-api",
+        "javax.persistence",
+        "jakarta-persistence",
+        "java-persistence-api"
+    ],
+    "kubernetes": [
+        "kubernetes-pod",
+        "k8s"
+    ],
+    "redux-toolkit": [
+        "reduxjs-toolkit"
+    ],
+    "coronasdk": [
+        "corona-storyboard"
+    ],
+    "excel-formula": [
+        "excel-indirect",
+        "excel-match"
+    ],
+    "amazon-emr": [
+        "aws-emr",
+        "emr",
+        "elastic-map-reduce"
+    ],
+    "integer": [
+        "int"
+    ],
+    "css": [
+        "box-shadow",
+        "box-sizing",
+        "css-text-overflow",
+        "css-border-image",
+        "css-border-radius",
+        "css-box-shadow",
+        "css-text-shadow",
+        "css3",
+        "css-font-weight",
+        "dynamic-css"
+    ],
+    "tdd": [
+        "testdrivendesign"
+    ],
+    "overloading": [
+        "method-overloading",
+        "function-overloading"
+    ],
+    "django-rest-framework": [
+        "drf"
+    ],
+    "cocoa-touch": [
+        "cocoa-touch-framework"
+    ],
+    ".net-4.5": [
+        ".net-4.5.2"
+    ],
+    "android-jetpack-compose": [
+        "android-compose",
+        "jetpack-compose"
+    ],
+    "group-by": [
+        "pandas-groupby",
+        "group-by-time-interval",
+        "group-by-all"
+    ],
+    "deep-learning": [
+        "deep-neural-network",
+        "dnn-learning"
+    ],
+    "d3.js": [
+        "d3.js-v5",
+        "d3v5",
+        "d3.js-v4",
+        "d3v4",
+        "d3js",
+        "d3"
+    ],
+    "google-tag-manager": [
+        "gtm"
+    ],
+    "comments": [
+        "commenting",
+        "code-comments",
+        "comment"
+    ],
+    "jakarta-ee": [
+        "java-ee-web-profile",
+        "java-ee",
+        "j2ee"
+    ],
+    "multilingual": [
+        "multiple-languages",
+        "multilanguage"
+    ],
+    "grand-central-dispatch": [
+        "gcd"
+    ],
+    "ruby-on-rails-5": [
+        "rails5"
+    ],
+    "collision": [
+        "collisions"
+    ],
+    "maven": [
+        "mvn"
+    ],
+    "single-sign-on": [
+        "sso"
+    ],
+    "express": [
+        "expressjs",
+        "express.js"
+    ],
+    "terminal": [
+        "terminals"
+    ],
+    "exception": [
+        "exceptionhandler",
+        "custom-exceptions",
+        "exception-handling"
+    ],
+    "code-generation": [
+        "codegen",
+        "code-generator"
+    ],
+    "amazon-s3": [
+        "amazon-s3-bucket",
+        "s3-bucket",
+        "aws-s3"
+    ],
+    "freeze": [
+        "hang"
+    ],
+    "cpu-architecture": [
+        "processor-architecture",
+        "computer-architecture"
+    ],
+    "lazy-loading": [
+        "lazyload",
+        "lazy-load"
+    ],
+    "amazon-iam": [
+        "aws-iam",
+        "aws-iam-roles"
+    ],
+    "azure-resource-manager": [
+        "azure-arm"
+    ],
+    "colors": [
+        "colours",
+        "colour"
+    ],
+    "sql-like": [
+        "like-operator"
+    ],
+    "neural-network": [
+        "neural-network-tuning",
+        "multi-layer-perceptron"
+    ],
+    "asp.net-mvc-4": [
+        "mvc4"
+    ],
+    "system.reactive": [
+        "iobserver",
+        "iobservable",
+        "reactive-extensions",
+        "rx"
+    ],
+    "text-to-speech": [
+        "tts"
+    ],
+    "breakpoints": [
+        "breakpoint"
+    ],
+    "gdi+": [
+        "gdiplus"
+    ],
+    "windows-xp": [
+        "xp"
+    ],
+    "window-functions": [
+        "analytic-functions"
+    ],
+    "crashlytics": [
+        "crashlytics-android",
+        "firebasecrashlytics"
+    ],
+    "escaping": [
+        "escapestring"
+    ],
+    "spring-data-jpa": [
+        "spring-boot-jpa",
+        "spring-jpa"
+    ],
+    "xamarin.android": [
+        "xamarin.droid"
+    ],
+    "jax-rs": [
+        "javax.ws.rs"
+    ],
+    "asp.net-core": [
+        "asp-net-core",
+        "aspnet-core",
+        "asp.net-vnext",
+        "asp.net-5"
+    ],
+    "ads": [
+        "advertisement",
+        "advertising"
+    ],
+    "sql-server-2016": [
+        "sql2016"
+    ],
+    "bash": [
+        "bash-function",
+        ".bash-profile"
+    ],
+    "uitableview": [
+        "tableviewcell",
+        "uitableviewcelll",
+        "uitableviewcontroller",
+        "uitableviewstylegrouped",
+        "uitableview-section",
+        "uitableviewfooter",
+        "uitableviewheader",
+        "uitableviewdelegate",
+        "uitableviewdatasource"
+    ],
+    "websphere": [
+        "ibm-was"
+    ],
+    "openmp": [
+        "omp"
+    ],
+    "browser": [
+        "web-browser"
+    ],
+    "iphone": [
+        "iphone-web"
+    ],
+    "microsoft-graph-api": [
+        "msgraph",
+        "microsoft-graph",
+        "ms-graph",
+        "microsoftgraph"
+    ],
+    "hive": [
+        "hiveql",
+        "apache-hive"
+    ],
+    "storyboard": [
+        "uistoryboard"
+    ],
+    "git": [
+        "git-commands"
+    ],
+    "windows-installer": [
+        "msiexec",
+        "msi"
+    ],
+    "concurrency": [
+        "concurrency-violation",
+        "concurrent-programming",
+        "concurency"
+    ],
+    "datepicker": [
+        "datapicker",
+        "datepicker-ui"
+    ],
+    "forms": [
+        "html-form",
+        "form"
+    ],
+    "pytest": [
+        "py.test"
+    ],
+    "intellij-idea": [
+        "intellij-2016.1"
+    ],
+    "optimization": [
+        "optimizer",
+        "code-optimization",
+        "optimizing",
+        "optimizations"
+    ],
+    "exchange-server": [
+        "exchange"
+    ],
+    "usb": [
+        "usbdevice"
+    ],
+    "multi-tenant": [
+        "multitenancy"
+    ],
+    "backbone.js": [
+        "backbone",
+        "backbonejs"
+    ],
+    "styles": [
+        "style"
+    ],
+    "service": [
+        "services"
+    ],
+    "redux": [
+        "redux-reducers"
+    ],
+    "openshift": [
+        "openshift-enterprise"
+    ],
+    "freemarker": [
+        "ftl"
+    ],
+    "swift5": [
+        "swift5.4",
+        "swift5.5",
+        "swift5.3",
+        "swift5.2",
+        "swift5.1"
+    ],
+    "push-notification": [
+        "remote-notifications",
+        "push-notifications"
+    ],
+    "proguard": [
+        "android-proguard"
+    ],
+    "azure-service-fabric": [
+        "service-fabric"
+    ],
+    "android-constraintlayout": [
+        "constraint-layout"
+    ],
+    "eloquent": [
+        "laravel-eloquent"
+    ],
+    "httprequest": [
+        "http-request"
+    ],
+    "types": [
+        "datatype",
+        "datatypes",
+        "type"
+    ],
+    "null": [
+        "nil",
+        "nulls",
+        "nullvalue"
+    ],
+    "xcode6": [
+        "xcode6-beta4",
+        "xcode6-beta3"
+    ],
+    "database": [
+        "dbms",
+        "database-structure"
+    ],
+    "form-submit": [
+        "form-submission"
+    ],
+    "android-actionbar": [
+        "actionbar"
+    ],
+    "publish-subscribe": [
+        "pubsub"
+    ],
+    "calendar": [
+        "calender"
+    ],
+    "session": [
+        "sessions"
+    ],
+    "http-redirect": [
+        "redirect",
+        "https-redirect",
+        "url-redirection",
+        "redirecting"
+    ],
+    "opencv": [
+        "node-opencv",
+        "opencv4nodejs",
+        "opencv4ios",
+        "opencvdotnet",
+        "opencvsharp",
+        "cv2",
+        "opencv4android",
+        "opencv-python",
+        "opencv-contrib"
+    ],
+    "digital-signature": [
+        "sign",
+        "signing"
+    ],
+    "h2": [
+        "h2db"
+    ],
+    "shiny": [
+        "rshiny"
+    ],
+    "github-actions": [
+        "github-workflow"
+    ],
+    "vscode-extensions": [
+        "visual-studio-code-extension"
+    ],
+    "rxjs": [
+        "reactive-extensions-js"
+    ],
+    "amazon-redshift": [
+        "redshift",
+        "aws-redshift"
+    ],
+    "require": [
+        "requires"
+    ],
+    "ignite": [
+        "apache-ignite"
+    ],
+    "python-imaging-library": [
+        "pillow"
+    ],
+    "hyperlink": [
+        "links"
+    ],
+    "jinja2": [
+        "jinja"
+    ],
+    "repository": [
+        "repositories"
+    ],
+    "sprite": [
+        "sprites"
+    ],
+    "max": [
+        "maximum"
+    ],
+    "out-of-memory": [
+        "oom",
+        "outofmemoryerror",
+        "outofmemoryexception"
+    ],
+    "core-data": [
+        "nsmanagedobject",
+        "nsmanagedobjectcontext"
+    ],
+    "razor-pages": [
+        "asp.net-core-razor-pages"
+    ],
+    "webassembly": [
+        "wasm"
+    ],
+    "amazon-sagemaker": [
+        "aws-sagemaker",
+        "sagemaker"
+    ],
+    "docusignapi": [
+        "docusign"
+    ],
+    "polygon": [
+        "polygons"
+    ],
+    "python": [
+        "py",
+        "python-shell",
+        "python-interpreter",
+        "pythonic"
+    ],
+    "jasper-reports": [
+        "jasper",
+        "jasperprint",
+        "jrxml"
+    ],
+    "click": [
+        "clicked"
+    ],
+    "file-io": [
+        "output-files",
+        "infile",
+        "outfile",
+        "input-file",
+        "input-files",
+        "fileinput",
+        "output-file"
+    ],
+    "requirejs": [
+        "require.js"
+    ],
+    "openstreetmap": [
+        "osm"
+    ],
+    "task": [
+        "tasks"
+    ],
+    "android-linearlayout": [
+        "linearlayout"
+    ],
+    "sql-update": [
+        "update-statement",
+        "database-update"
+    ],
+    "razor": [
+        "mvcrazor",
+        "razor-web-pages",
+        "asp.net-razor-pages",
+        ".cshtml"
+    ],
+    "jakarta-mail": [
+        "javamail",
+        "javax.mail"
+    ],
+    "npm": [
+        "npmjs"
+    ],
+    "xhtml": [
+        "xhtml5",
+        "valid-xhtml"
+    ],
+    "visual-studio-2010": [
+        "visual-studio-2010-sp1",
+        "visual-studio-2010-beta-2",
+        "visual-studio-2010-beta-1",
+        "visual-studio-2010-rc",
+        "vs2010-express",
+        "msvc10"
+    ],
+    "converters": [
+        "converter"
+    ],
+    "state": [
+        "states"
+    ],
+    "certificate": [
+        "digital-certificate",
+        "certificates"
+    ],
+    "android-studio": [
+        "androidstudio-settings"
+    ],
+    "e-commerce": [
+        "ecommerce"
+    ],
+    "asp.net-core-mvc": [
+        "mvc-core",
+        "asp.net-mvc-6"
+    ],
+    "bluetooth-lowenergy": [
+        "ble"
+    ],
+    "ios": [
+        "ios-sdk"
+    ],
+    "jqgrid": [
+        "jquery-grid"
+    ],
+    "spring-security": [
+        "acegi"
+    ],
+    "prism": [
+        "compositewpf"
+    ],
+    "firebase-cloud-messaging": [
+        "firebasemessaging",
+        "firebase-notifications",
+        "fcm"
+    ],
+    "dataset": [
+        "custom-dataset"
+    ],
+    "airflow": [
+        "airflow-scheduler",
+        "airflow-operator",
+        "apache-airflow-xcom",
+        "airflow-worker",
+        "apache-airflow"
+    ],
+    "expo": [
+        "expo-cli"
+    ],
+    "cloud-foundry": [
+        "pivotal-cloud-foundry",
+        "cloudfoundry"
+    ],
+    ".htaccess": [
+        "codeigniter-htaccess"
+    ],
+    "record": [
+        "records"
+    ],
+    "char": [
+        "chars"
+    ],
+    "android-layout": [
+        "android-layout-xml"
+    ],
+    "chart.js": [
+        "charts.js",
+        "chartjs"
+    ],
+    "android": [
+        "android-framework",
+        "android-ui",
+        "android-application"
+    ],
+    "microsoft-edge": [
+        "edge-browser"
+    ],
+    "guice": [
+        "google-guice"
+    ],
+    "yii": [
+        "yii-db",
+        "php-yii"
+    ],
+    "datetime": [
+        "datetime-manipulation",
+        "datetime-operation",
+        "datetime-functions"
+    ],
+    "uml": [
+        "uml-modeling"
+    ],
+    "mongodb": [
+        "mongod"
+    ],
+    "sharepoint": [
+        "moss"
+    ],
+    "tailwind-css": [
+        "tailwind"
+    ],
+    "angular-reactive-forms": [
+        "reactive-forms"
+    ],
+    "typescript": [
+        "vanilla-typescript",
+        "atscript"
+    ],
+    "svg": [
+        "svg-favicon",
+        "svg-image",
+        "svg-path",
+        "svgz"
+    ],
+    "email": [
+        "email-injection",
+        "email-integration",
+        "mail"
+    ],
+    "single-page-application": [
+        "singlepage",
+        "spa"
+    ],
+    "gis": [
+        "geographical-information"
+    ],
+    "lodash": [
+        "lodash-es"
+    ],
+    "document": [
+        "documents"
+    ],
+    "progressive-web-apps": [
+        "pwa"
+    ],
+    "ibm-cloud": [
+        "ibm-bluemix",
+        "bluemix"
+    ],
+    "scroll": [
+        "scrolling"
+    ],
+    "bar-chart": [
+        "barplot",
+        "bar-graph"
+    ],
+    "svm": [
+        "support-vector-machines"
+    ],
+    "safari": [
+        "safari-bug"
+    ],
+    "xamarin.ios": [
+        "monotouch"
+    ],
+    "header": [
+        "headers"
+    ],
+    "timer": [
+        "timers"
+    ],
+    "hook": [
+        "hooks",
+        "hooking"
+    ],
+    "ssrs-2012": [
+        "reporting-services-2012"
+    ],
+    "filter": [
+        "filtering",
+        "filters"
+    ],
+    "react-hooks": [
+        "usecallback",
+        "react-usememo",
+        "use-reducer",
+        "use-ref",
+        "use-effect",
+        "use-state"
+    ],
+    "google-analytics": [
+        "google-analytics-filters"
+    ],
+    "conv-neural-network": [
+        "cnn",
+        "convolutional-neural-network"
+    ],
+    "segmentation-fault": [
+        "sigsegv",
+        "segfault"
+    ],
+    "pipe": [
+        "piping",
+        "pipes"
+    ],
+    "google-cloud-functions": [
+        "firebase-cloud-functions",
+        "firebase-functions"
+    ],
+    "windows-mobile": [
+        "winmo"
+    ],
+    "excel": [
+        "excel-macro",
+        "workbook"
+    ],
+    "lucene": [
+        "lucene-index"
+    ],
+    "formatting": [
+        "formating"
+    ],
+    "pom.xml": [
+        "pom"
+    ],
+    "orchardcms": [
+        "orchard"
+    ],
+    "windows-services": [
+        "winservice"
+    ],
+    "prototype": [
+        "prototypes"
+    ],
+    "byte": [
+        "bytes"
+    ],
+    "branch": [
+        "branching",
+        "branches"
+    ],
+    "selenium-webdriver": [
+        "selenium-webdriver-python",
+        "selenium",
+        "webdriverjs",
+        "selenium-webdriver-java",
+        "selenium-webdriver-c#",
+        "selenium2"
+    ],
+    "applet": [
+        "japplet"
+    ],
+    ".net-5": [
+        ".net-core-5"
+    ],
+    "jwt": [
+        "jwt-auth",
+        "json-web-token"
+    ],
+    "text": [
+        "plaintext"
+    ],
+    "amazon-eks": [
+        "eks",
+        "aws-eks"
+    ],
+    "ag-grid": [
+        "ag-grid-enterprise"
+    ],
+    "keyboard-shortcuts": [
+        "shortcut-key"
+    ],
+    "settings": [
+        "usersettings",
+        "user-settings",
+        "setting"
+    ],
+    "scrollbar": [
+        "browser-scrollbars",
+        "scrollbars"
+    ],
+    "complexity-theory": [
+        "asymptotic-complexity"
+    ],
+    "jupyter-notebook": [
+        "ipython-notebook"
+    ],
+    "user-defined-functions": [
+        "udf",
+        "table-value-functions",
+        "table-value-function",
+        "table-valued-function"
+    ],
+    "ibm-mobilefirst": [
+        "mobilefirst",
+        "worklight"
+    ],
+    "zend-framework2": [
+        "zf2"
+    ],
+    "drag-and-drop": [
+        "dnd"
+    ],
+    "sql": [
+        "sql-standards",
+        "sql-or",
+        "sql-and",
+        "select-statement",
+        "sqlselect",
+        "sql-select",
+        "sql-syntax"
+    ],
+    "mstest": [
+        "vs-unit-testing-framework"
+    ],
+    "accessibility": [
+        "assistive-technology",
+        "android-accessibility",
+        "a11y"
+    ],
+    "p5.js": [
+        "p5js"
+    ],
+    ".net-3.5": [
+        "framework3.5"
+    ],
+    "rename": [
+        "renaming"
+    ],
+    "naming-conventions": [
+        "casing-conventions",
+        "variable-naming"
+    ],
+    "angularjs": [
+        "angular1.x",
+        "angular.js"
+    ],
+    "geojson": [
+        "geojason"
+    ],
+    "angular-ui-router": [
+        "angularjs-ui-router",
+        "ui-router"
+    ],
+    "asp.net-identity": [
+        "aspnet-identity"
+    ],
+    "average": [
+        "avg"
+    ],
+    "timestamp": [
+        "timestamps"
+    ],
+    "xslt": [
+        "xml-transform",
+        "xslt-2.0-processors",
+        "xsltprocessor",
+        "xsltproc"
+    ],
+    "cuda": [
+        "cudamalloc",
+        "cuda-kernel"
+    ],
+    "angular-material2": [
+        "angular2-material"
+    ],
+    "regex-lookarounds": [
+        "lookahead",
+        "negative-lookahead",
+        "lookaround"
+    ],
+    "web-scraping": [
+        "scraper",
+        "webpagescraping"
+    ],
+    "amazon-cognito": [
+        "aws-cognito",
+        "cognito"
+    ],
+    "bit": [
+        "bits"
+    ],
+    "visual-studio": [
+        "visual-studio-community",
+        "msvs"
+    ],
+    "google-compute-engine": [
+        "gce"
+    ],
+    "azure-cosmosdb": [
+        "azure-documentdb"
+    ],
+    "apache-spark": [
+        "spark",
+        "spark-cluster-framework"
+    ],
+    "asp.net-mvc": [
+        "aspnet.mvc",
+        "aspnet-mvc",
+        "asp.net.mvc",
+        "asp-mvc",
+        "mvc.net"
+    ],
+    "computer-vision": [
+        "cv"
+    ],
+    "ios6": [
+        "iphone-sdk-6.0"
+    ],
+    "unix": [
+        "unix-utils",
+        "unix-programming"
+    ],
+    "xss": [
+        "xss-prevention",
+        "cross-site-scripting"
+    ],
+    "standards": [
+        "standard"
+    ],
+    "namespaces": [
+        "namespacing"
+    ],
+    "copy-paste": [
+        "ctrl-v",
+        "ctrl-c"
+    ],
+    "snowflake-cloud-data-platform": [
+        "snowflake-stage",
+        "snowflake-webui",
+        "snowflake-time-travel",
+        "snowpark",
+        "snowflake-connector",
+        "snowflake-xml",
+        "snowflake-sql",
+        "snowflake-stream",
+        "snowflake-pipe",
+        "snowflake-task",
+        "snowsql",
+        "snowflake-data-masking",
+        "snowflake-data-warehouse",
+        "snowflake-connector-python",
+        "snowflake-datawarehouse",
+        "snowflake"
+    ],
+    "axis": [
+        "axes"
+    ],
+    "botframework": [
+        "bot-framework-composer",
+        "adaptive-dialogs",
+        "microsoft-bot-framework"
+    ],
+    "sorting": [
+        "columnsorting"
+    ],
+    "autodesk-forge": [
+        "autodesk-platform-services"
+    ],
+    "full-text-search": [
+        "full-text-indexing"
+    ],
+    "pyspark": [
+        "pyspark-dataframes"
+    ],
+    "google-colaboratory": [
+        "colab"
+    ],
+    "xml-parsing": [
+        "parsexml"
+    ],
+    "amazon-elastic-beanstalk": [
+        "beanstalk",
+        "aws-elasticbeanstalk"
+    ],
+    "transactions": [
+        "transactional"
+    ],
+    "rubygems": [
+        "ruby-on-rails-gems"
+    ],
+    "azure-data-factory": [
+        "azure-integration-runtime",
+        "azure-copy-activity",
+        "azure-data-factory-pipeline",
+        "azure-data-flow",
+        "azure-data-factory-2",
+        "azure-adf"
+    ],
+    "case": [
+        "select-case",
+        "case-statement",
+        "case-when",
+        "case-expression"
+    ],
+    "winforms": [
+        "windows-forms-app"
+    ],
+    "concatenation": [
+        "concat"
+    ],
+    "app-store-connect": [
+        "itunes-connect",
+        "itunesconnect",
+        "appstoreconnect"
+    ],
+    "line": [
+        "lines"
+    ],
+    "model": [
+        "models"
+    ],
+    "google-cloud-platform": [
+        "gcp",
+        "google-cloud"
+    ],
+    "apache-zookeeper": [
+        "zookeeper"
+    ],
+    "here-api": [
+        "here-maps",
+        "nokia-maps",
+        "nokia-location-api"
+    ],
+    "ubuntu": [
+        "lubuntu",
+        "kubuntu",
+        "xubuntu"
+    ],
+    "matlab": [
+        "m-file",
+        "mlint",
+        "matlab-toolbox"
+    ],
+    "eclipse-plugin": [
+        "eclipse-plugin-dev"
+    ],
+    "multidimensional-array": [
+        "arrayofarrays",
+        "ndarray",
+        "rectangular-arrays",
+        "nested-array",
+        "3d-array",
+        "2d-array"
+    ],
+    "unity-game-engine": [
+        "unity3d",
+        "unity3d-5",
+        "unity5.3",
+        "unity5",
+        "unity2d",
+        "unity"
+    ],
+    "semaphore": [
+        "semaphores"
+    ],
+    "azure-blob-storage": [
+        "azure-storage-blobs",
+        "windows-azure-blob"
+    ],
+    "android-room": [
+        "room"
+    ],
+    "layout": [
+        "html-layout",
+        "htmllayout"
+    ],
+    "compression": [
+        "decompression",
+        "decompress",
+        "uncompress",
+        "data-compression",
+        "compressed"
+    ],
+    "screen": [
+        "screens"
+    ],
+    "controls": [
+        "control"
+    ],
+    "gstreamer": [
+        "gst"
+    ],
+    "xml": [
+        "xml-file"
+    ],
+    "scope": [
+        "variable-scope"
+    ],
+    "sequelize.js": [
+        "sequelize"
+    ],
+    "sh": [
+        "bourne-shell"
+    ],
+    "laravel-5": [
+        "laravel-5.6",
+        "laravel-5.4",
+        "laravel-5.5",
+        "laravel-5.1",
+        "laravel-5.2",
+        "laravel-5.3"
+    ],
+    "http-post": [
+        "post-request"
+    ],
+    "oracle-sqldeveloper": [
+        "sql-developer"
+    ],
+    "c#": [],
+    "asp.net": [],
+    ".net": [],
+    "objective-c": [],
+    "string": [],
+    "postgresql": [],
+    "amazon-web-services": [],
+    "xcode": [],
+    "vb.net": [],
+    "algorithm": [],
+    "powershell": [],
+    "twitter-bootstrap": [],
+    "api": [],
+    "csv": [],
+    "unit-testing": [],
+    "file": [],
+    "class": [],
+    "go": [],
+    "google-chrome": [],
+    "sockets": [],
+    "web-services": [],
+    "parsing": [],
+    "c++11": [],
+    "flask": [],
+    "templates": [],
+    "testing": [],
+    "batch-file": [],
+    "assembly": [],
+    "django-models": [],
+    "url": [],
+    "tomcat": [],
+    "inheritance": [],
+    "logging": [],
+    "matrix": [],
+    "button": [],
+    "internet-explorer": [],
+    "caching": [],
+    "select": [],
+    "asp.net-mvc-3": [],
+    "plot": [],
+    "search": [],
+    "stored-procedures": [],
+    "vector": [],
+    "cookies": [],
+    "input": [],
+    "data-structures": [],
+    "model-view-controller": [],
+    "jdbc": [],
+    "iframe": [],
+    "cakephp": [],
+    "struct": [],
+    "methods": [],
+    "mvvm": [],
+    "checkbox": [],
+    "ecmascript-6": [],
+    "android-recyclerview": [],
+    "dependency-injection": [],
+    "charts": [],
+    "svn": [],
+    "while-loop": [],
+    "dll": [],
+    "foreach": [],
+    "plugins": [],
+    "split": [],
+    "cmd": [],
+    "encoding": [],
+    "database-design": [],
+    "ember.js": [],
+    "printing": [],
+    "html-table": [],
+    "module": [],
+    "visual-studio-2012": [],
+    "parallel-processing": [],
+    "fonts": [],
+    "constructor": [],
+    "compiler-errors": [],
+    "solr": [],
+    "memory-leaks": [],
+    "oracle11g": [],
+    "zend-framework": [],
+    "interface": [],
+    "jmeter": [],
+    "orm": [],
+    "windows-phone-7": [],
+    "functional-programming": [],
+    "jar": [],
+    "vbscript": [],
+    "callback": [],
+    "permissions": [],
+    "scripting": [],
+    "io": [],
+    "compilation": [],
+    "dns": [],
+    "binding": [],
+    "architecture": [],
+    "version-control": [],
+    "azure-functions": [],
+    "f#": [],
+    "autocomplete": [],
+    "tree": [],
+    "active-directory": [],
+    "phpmyadmin": [],
+    "notifications": [],
+    "asp.net-mvc-5": [],
+    "stl": [],
+    "ant": [],
+    "cryptography": [],
+    "character-encoding": [],
+    "linq-to-sql": [],
+    "android-asynctask": [],
+    "insert": [],
+    "linker": [],
+    "upload": [],
+    "continuous-integration": [],
+    "opengl-es": [],
+    "operating-system": [],
+    "localization": [],
+    "macros": [],
+    "android-ndk": [],
+    "dependencies": [],
+    "attributes": [],
+    "jquery-plugins": [],
+    "event-handling": [],
+    "annotations": [],
+    "keyboard": [],
+    "textbox": [],
+    "widget": [],
+    "garbage-collection": [],
+    "numbers": [],
+    "tuples": [],
+    "rotation": [],
+    "internationalization": [],
+    "components": [],
+    "boolean": [],
+    "serial-port": [],
+    "ios5": [],
+    "youtube-api": [],
+    "frameworks": [],
+    "tags": [],
+    "containers": [],
+    "asp-classic": [],
+    "struts2": [],
+    "migration": [],
+    "c++17": [],
+    "embedded": [],
+    "windows-7": [],
+    "vb6": [],
+    "command": [],
+    "authorization": [],
+    "bots": [],
+    "user-controls": [],
+    "cocos2d-iphone": [],
+    "azure-sql-database": [],
+    "cypher": [],
+    "apache-poi": [],
+    "include": [],
+    "coffeescript": [],
+    "icons": [],
+    "filesystems": [],
+    "key": [],
+    "in-app-purchase": [],
+    "resources": [],
+    "wordpress-theming": [],
+    "artificial-intelligence": [],
+    "cross-browser": [],
+    "closures": [],
+    "jquery-selectors": [],
+    "pthreads": [],
+    "constraints": [],
+    "locking": [],
+    "global-variables": [],
+    "try-catch": [],
+    ".net-4.0": [],
+    "windows-runtime": [],
+    "web-config": [],
+    "c++14": [],
+    "gtk": [],
+    "internet-explorer-8": [],
+    "asp.net-mvc-2": [],
+    "language-agnostic": [],
+    "virtual-machine": [],
+    "themes": [],
+    "parameter-passing": [],
+    "shared-libraries": [],
+    "apple-push-notifications": [],
+    "media-queries": [],
+    "refactoring": [],
+    "seo": [],
+    "character": [],
+    "air": [],
+    "expression": [],
+    "handlebars.js": [],
+    "rss": [],
+    "schema": [],
+    "signals": [],
+    "report": [],
+    "firefox-addon": [],
+    "registry": [],
+    "entity-framework-4": [],
+    "google-cloud-messaging": [],
+    "tooltip": [],
+    "scheduled-tasks": [],
+    "powerpoint": [],
+    "javascript-objects": [],
+    "list-comprehension": [],
+    "visualization": [],
+    "buffer": [],
+    "http-status-code-404": [],
+    "google-kubernetes-engine": [],
+    "ruby-on-rails-3.2": [],
+    "version": [],
+    "domain-driven-design": [],
+    "binary-tree": [],
+    "django-queryset": [],
+    "storage": [],
+    "jquery-validate": [],
+    "azure-storage": [],
+    "structure": [],
+    "client-server": [],
+    "generator": [],
+    "combinations": [],
+    "spring-webflux": [],
+    "cross-domain": [],
+    "css-position": [],
+    "css-transitions": [],
+    "task-parallel-library": [],
+    "associations": [],
+    "jquery-animate": [],
+    "swt": [],
+    "background-image": [],
+    "html-parsing": [],
+    "ms-office": [],
+    "css-float": [],
+    "signal-processing": [],
+    "border": [],
+    "warnings": [],
+    "c++20": [],
+    "interop": [],
+    "java-me": [],
+    "ssas": [],
+    "addition": [],
+    "performance-testing": [],
+    "internet-explorer-11": [],
+    "cxf": [],
+    "code-coverage": [],
+    "permutation": [],
+    "antd": [],
+    "load-balancing": [],
+    "memcached": [],
+    "html-select": [],
+    "silverlight-4.0": [],
+    "netty": [],
+    "action": [],
+    "tortoisesvn": [],
+    "session-cookies": [],
+    "project": [],
+    "spreadsheet": [],
+    "wildcard": [],
+    "cross-compiling": [],
+    "customization": [],
+    "static-libraries": [],
+    "primary-key": [],
+    "wolfram-mathematica": [],
+    "aws-cli": [],
+    "ibm-mq": [],
+    "function-pointers": [],
+    "variable-assignment": [],
+    "inversion-of-control": [],
+    "internet-explorer-9": [],
+    "sparse-matrix": [],
+    "ctypes": [],
+    "grails-orm": [],
+    "custom-controls": [],
+    "filenames": [],
+    "subclass": [],
+    "classloader": [],
+    "pixel": [],
+    "internet-explorer-7": [],
+    "batch-processing": [],
+    "flex4": [],
+    "microsoft-metro": [],
+    "marshalling": [],
+    "google-docs": [],
+    "screen-scraping": [],
+    "sql-server-ce": [],
+    "wrapper": [],
+    "jboss7.x": [],
+    "asset-pipeline": [],
+    "open-source": [],
+    "monads": [],
+    "transformation": [],
+    "payment": [],
+    "mime-types": [],
+    "x11": [],
+    "shared-ptr": [],
+    "python-3.5": [],
+    "perforce": [],
+    "vertical-alignment": [],
+    "associative-array": [],
+    "jpa-2.0": [],
+    "destructor": [],
+    "visual-studio-2005": [],
+    "bitwise-operators": [],
+    "x86-16": [],
+    "equals": [],
+    "tokenize": [],
+    "new-operator": [],
+    "sharepoint-2007": [],
+    "java-7": [],
+    "javadoc": [],
+    "jquery-ui-datepicker": [],
+    "raphael": [],
+    "intervals": [],
+    "jobs": [],
+    "browser-cache": [],
+    "es6-modules": [],
+    "c": [],
+    "django": [],
+    "ruby": [],
+    "laravel": [],
+    "wpf": [],
+    "oracle-database": [],
+    "spring-boot": [],
+    "docker": [],
+    "eclipse": [],
+    "scala": [],
+    "selenium": [],
+    "kotlin": [],
+    "hibernate": [],
+    "python-2.7": [],
+    "qt": [],
+    "symfony": [],
+    "http": [],
+    "xaml": [],
+    "github": [],
+    "machine-learning": [],
+    "nginx": [],
+    "gradle": [],
+    "tkinter": [],
+    "listview": [],
+    "pdf": [],
+    "jsp": [],
+    "haskell": [],
+    "jenkins": [],
+    "xamarin": [],
+    "mongoose": [],
+    "android-fragments": [],
+    "curl": [],
+    "heroku": [],
+    "rust": [],
+    "webpack": [],
+    "keras": [],
+    "image-processing": [],
+    "gcc": [],
+    "post": [],
+    "jquery-ui": [],
+    "cocoa": [],
+    "iis": [],
+    "firefox": [],
+    "javafx": [],
+    "opengl": [],
+    "asp.net-web-api": [],
+    "dplyr": [],
+    "ruby-on-rails-4": [],
+    "memory": [],
+    "canvas": [],
+    "jsf": [],
+    "arraylist": [],
+    "woocommerce": [],
+    "docker-compose": [],
+    "mobile": [],
+    "groovy": [],
+    "ssh": [],
+    "google-chrome-extension": [],
+    "time": [],
+    "cmake": [],
+    "plsql": [],
+    "sed": [],
+    "graph": [],
+    "junit": [],
+    "boost": [],
+    "error-handling": [],
+    "dynamic": [],
+    "soap": [],
+    "silverlight": [],
+    "gridview": [],
+    "ffmpeg": [],
+    "c#-4.0": [],
+    "redis": [],
+    "server": [],
+    "https": [],
+    "unicode": [],
+    "axios": [],
+    "pytorch": [],
+    "django-views": [],
+    "netbeans": [],
+    "automation": [],
+    "pdo": [],
+    "sqlalchemy": [],
+    "command-line": [],
+    "react-redux": [],
+    "lua": [],
+    "promise": [],
+    "webview": [],
+    "uwp": [],
+    "datatable": [],
+    "scipy": [],
+    "count": [],
+    "syntax": [],
+    "three.js": [],
+    "graphql": [],
+    "powerbi": [],
+    "react-router": [],
+    "datagridview": [],
+    "oauth": [],
+    "drupal": [],
+    "terraform": [],
+    "angular-material": [],
+    "linked-list": [],
+    "proxy": [],
+    "arduino": [],
+    "parse-platform": [],
+    "primefaces": [],
+    "uiview": [],
+    "gitlab": [],
+    "configuration": [],
+    "rspec": [],
+    "pygame": [],
+    "linux-kernel": [],
+    "raspberry-pi": [],
+    "mongodb-query": [],
+    "responsive-design": [],
+    "angularjs-directive": [],
+    "nhibernate": [],
+    "request": [],
+    "bluetooth": [],
+    "discord.js": [],
+    "pyqt": [],
+    "pycharm": [],
+    "get": [],
+    "sql-server-2012": [],
+    "openssl": [],
+    "jackson": [],
+    "dockerfile": [],
+    "uiviewcontroller": [],
+    "sas": [],
+    "youtube": [],
+    "nullpointerexception": [],
+    "bitmap": [],
+    "sum": [],
+    "electron": [],
+    "yii2": [],
+    "time-series": [],
+    "android-listview": [],
+    "floating-point": [],
+    "sdk": [],
+    "msbuild": [],
+    "jboss": [],
+    "frontend": [],
+    "joomla": [],
+    "devise": [],
+    "navigation": [],
+    "anaconda": [],
+    "cors": [],
+    "background": [],
+    "camera": [],
+    "pyqt5": [],
+    "multiprocessing": [],
+    "onclick": [],
+    "ios7": [],
+    "mariadb": [],
+    "rabbitmq": [],
+    "uicollectionview": [],
+    "console": [],
+    "coldfusion": [],
+    "ftp": [],
+    "mockito": [],
+    "kivy": [],
+    "prolog": [],
+    "jasmine": [],
+    "sprite-kit": [],
+    "mfc": [],
+    "fortran": [],
+    "nosql": [],
+    "nestjs": [],
+    "leaflet": [],
+    "postman": [],
+    "flutter-layout": [],
+    "arm": [],
+    "gulp": [],
+    "libgdx": [],
+    "dom-events": [],
+    "android-emulator": [],
+    "swagger": [],
+    "uikit": [],
+    "uiscrollview": [],
+    "jvm": [],
+    "centos": [],
+    "webdriver": [],
+    "geolocation": [],
+    "html5-canvas": [],
+    "qml": [],
+    "windows-10": [],
+    "mapreduce": [],
+    "smtp": [],
+    "ionic2": [],
+    "spring-data": [],
+    "http-headers": [],
+    "java-stream": [],
+    "nuget": [],
+    "grid": [],
+    "listbox": [],
+    "ldap": [],
+    "gdb": [],
+    "pivot": [],
+    "latex": [],
+    "copy": [],
+    "base64": [],
+    "protractor": [],
+    "queue": [],
+    "uibutton": [],
+    "find": [],
+    "zip": [],
+    "cucumber": [],
+    "ide": [],
+    "ssl-certificate": [],
+    "hover": [],
+    "udp": [],
+    "g++": [],
+    "twilio": [],
+    "vue-component": [],
+    "uiwebview": [],
+    "twig": [],
+    "uiimageview": [],
+    "local-storage": [],
+    "wix": [],
+    "jersey": [],
+    "ionic3": [],
+    "time-complexity": [],
+    "gps": [],
+    "debian": [],
+    "tidyverse": [],
+    "compare": [],
+    "django-admin": [],
+    "localhost": [],
+    "ado.net": [],
+    "mono": [],
+    "jframe": [],
+    "runtime-error": [],
+    "fetch": [],
+    "output": [],
+    "fullcalendar": [],
+    "timeout": [],
+    "imageview": [],
+    "gson": [],
+    "seaborn": [],
+    "signalr": [],
+    "dax": [],
+    "drupal-7": [],
+    "typo3": [],
+    "odbc": [],
+    "erlang": [],
+    "cocoapods": [],
+    "observable": [],
+    "export": [],
+    "location": [],
+    "syntax-error": [],
+    "log4j": [],
+    "int": [],
+    "asp.net-core-webapi": [],
+    "window": [],
+    "regression": [],
+    "treeview": [],
+    "maps": [],
+    "telerik": [],
+    "logic": [],
+    "microservices": [],
+    "jsx": [],
+    "malloc": [],
+    "imagemagick": [],
+    "thymeleaf": [],
+    "ip": [],
+    "position": [],
+    "ios8": [],
+    "wsdl": [],
+    "uiimage": [],
+    "ckeditor": [],
+    "webrtc": [],
+    "office365": [],
+    "celery": [],
+    "actionscript": [],
+    "markdown": [],
+    "backend": [],
+    "shopify": [],
+    "pattern-matching": [],
+    "google-chrome-devtools": [],
+    "angularjs-scope": [],
+    "applescript": [],
+    "match": [],
+    "many-to-many": [],
+    "qt5": [],
+    "data-science": [],
+    "pandas-groupby": [],
+    "video-streaming": [],
+    "spring-batch": [],
+    "language-lawyer": [],
+    "logstash": [],
+    "react-navigation": [],
+    "operator-overloading": [],
+    "retrofit": [],
+    "vagrant": [],
+    "ef-code-first": [],
+    "bitbucket": [],
+    "uitextfield": [],
+    "jtable": [],
+    "testng": [],
+    "aggregate": [],
+    "databricks": [],
+    "sharepoint-2010": [],
+    "conda": [],
+    "double": [],
+    "blackberry": [],
+    "devops": [],
+    "hdfs": [],
+    "android-sqlite": [],
+    "polymer": [],
+    "glsl": [],
+    "tinymce": [],
+    "keycloak": [],
+    "akka": [],
+    "webserver": [],
+    "comparison": [],
+    "deserialization": [],
+    "scheme": [],
+    "app-store": [],
+    "puppeteer": [],
+    "fragment": [],
+    "tcl": [],
+    "jupyter": [],
+    "mule": [],
+    "spring-integration": [],
+    "rstudio": [],
+    "html5-video": [],
+    "bigdata": [],
+    "apache2": [],
+    "tableview": [],
+    "cygwin": [],
+    "react-router-dom": [],
+    "boto3": [],
+    "runtime": [],
+    "appium": [],
+    "operators": [],
+    "angular6": [],
+    "bootstrap-modal": [],
+    "filtering": [],
+    "vuex": [],
+    "grouping": [],
+    "asp.net-web-api2": [],
+    "glassfish": [],
+    "odata": [],
+    "windows-phone-8.1": [],
+    "ocaml": [],
+    "jms": [],
+    "2d": [],
+    "phpstorm": [],
+    "progress-bar": [],
+    "jpanel": [],
+    "phantomjs": [],
+    "pdf-generation": [],
+    "virtualenv": [],
+    "retrofit2": [],
+    "nunit": [],
+    "fastapi": [],
+    "pine-script": [],
+    "android-webview": [],
+    "kendo-grid": [],
+    "streaming": [],
+    "webkit": [],
+    "angular-cli": [],
+    "console-application": [],
+    "data-visualization": [],
+    "aes": [],
+    "focus": [],
+    "xna": [],
+    "laravel-8": [],
+    "nativescript": [],
+    "firebase-storage": [],
+    "jenkins-plugins": [],
+    "devexpress": [],
+    "jetty": [],
+    "database-connection": [],
+    "ipython": [],
+    "notepad++": [],
+    "flutter-dependencies": [],
+    "load": [],
+    "flask-sqlalchemy": [],
+    "mpi": [],
+    "oracle-apex": [],
+    "prometheus": [],
+    "nltk": [],
+    "nsstring": [],
+    "size": [],
+    "uilabel": [],
+    "eslint": [],
+    "rendering": [],
+    "mysql-workbench": [],
+    "scrollview": [],
+    "lisp": [],
+    "rsa": [],
+    "vaadin": [],
+    "windows-store-apps": [],
+    "rx-java": [],
+    "hbase": [],
+    "cursor": [],
+    "blockchain": [],
+    "httpclient": [],
+    "pymongo": [],
+    "robotframework": [],
+    "mingw": [],
+    "gnuplot": [],
+    "grpc": [],
+    "jq": [],
+    "ethereum": [],
+    "pyinstaller": [],
+    "relational-database": [],
+    "undefined": [],
+    "png": [],
+    "webgl": [],
+    "jsoup": [],
+    "histogram": [],
+    "windows-phone": [],
+    "solidity": [],
+    "node-modules": [],
+    "vsto": [],
+    "android-service": [],
+    "inner-join": [],
+    "wildfly": [],
+    "heap-memory": [],
+    "ejb": [],
+    "automapper": [],
+    "karma-jasmine": [],
+    "llvm": [],
+    "mapbox": [],
+    "awt": [],
+    "powerquery": [],
+    "dropdown": [],
+    "ejs": [],
+    "android-camera": [],
+    "angular5": [],
+    "uitabbarcontroller": [],
+    "avfoundation": [],
+    "mqtt": [],
+    "metadata": [],
+    "liferay": [],
+    "entity": [],
+    "sitecore": [],
+    "overflow": [],
+    "textarea": [],
+    "telegram": [],
+    "kibana": [],
+    "verilog": [],
+    "common-lisp": [],
+    "ocr": [],
+    "jekyll": [],
+    "sublimetext3": [],
+    "touch": [],
+    "fetch-api": [],
+    "nodes": [],
+    "lstm": [],
+    "carousel": [],
+    "mouseevent": [],
+    "excel-2010": [],
+    "hyperledger-fabric": [],
+    "config": [],
+    "zsh": [],
+    "interface-builder": [],
+    "osgi": [],
+    "vue-router": [],
+    "height": [],
+    "sparql": [],
+    "uinavigationbar": [],
+    "uri": [],
+    "c++-cli": [],
+    "instagram": [],
+    "navbar": [],
+    "couchdb": [],
+    "xslt-1.0": [],
+    "android-manifest": [],
+    "cross-platform": [],
+    "teamcity": [],
+    "networkx": [],
+    "width": [],
+    "alamofire": [],
+    "python-import": [],
+    "adobe": [],
+    "transform": [],
+    "grafana": [],
+    "ms-access-2010": [],
+    "apply": [],
+    "weblogic": [],
+    "etl": [],
+    "sympy": [],
+    "editor": [],
+    "exec": [],
+    "drawing": [],
+    "jira": [],
+    "mips": [],
+    "directx": [],
+    "toggle": [],
+    "capybara": [],
+    "c-preprocessor": [],
+    ".net-6.0": [],
+    "response": [],
+    "javafx-8": [],
+    "aggregate-functions": [],
+    "chat": [],
+    "prestashop": [],
+    "vhdl": [],
+    "preg-replace": [],
+    "moq": [],
+    "uitextview": [],
+    "office-js": [],
+    "hosting": [],
+    "backup": [],
+    "opencl": [],
+    "pipeline": [],
+    "reactive-programming": [],
+    "dynamic-programming": [],
+    "echo": [],
+    "wpf-controls": [],
+    "activemq-classic": [],
+    "stm32": [],
+    "android-widget": [],
+    "openpyxl": [],
+    "maven-2": [],
+    "virtualbox": [],
+    "swift4": [],
+    "teradata": [],
+    "eclipse-rcp": [],
+    "user-input": [],
+    "font-awesome": [],
+    "android-animation": [],
+    "spark-streaming": [],
+    "phpmailer": [],
+    "python-3.6": [],
+    "pyqt4": [],
+    "ionic4": [],
+    "cordova-plugins": [],
+    "microsoft-teams": [],
+    "httpwebrequest": [],
+    "extjs4": [],
+    "exe": [],
+    "webstorm": [],
+    "npm-install": [],
+    "hashtable": [],
+    "workflow": [],
+    "bundle": [],
+    "fluent-nhibernate": [],
+    "codeigniter-3": [],
+    "push": [],
+    "lxml": [],
+    "ember-data": [],
+    "jstl": [],
+    "tomcat7": [],
+    "xpages": [],
+    "identityserver4": [],
+    "cpanel": [],
+    "speech-recognition": [],
+    "knitr": [],
+    "xquery": [],
+    "blazor-server-side": [],
+    "refresh": [],
+    "settimeout": [],
+    "preg-match": [],
+    "cython": [],
+    "sinatra": [],
+    "nasm": [],
+    "union": [],
+    "export-to-csv": [],
+    "nsarray": [],
+    "render": [],
+    "parent-child": [],
+    "locale": [],
+    "octave": [],
+    "titanium": [],
+    "opencart": [],
+    "servicestack": [],
+    "counter": [],
+    "es6-promise": [],
+    "telegram-bot": [],
+    "nsmutablearray": [],
+    "asp.net-ajax": [],
+    "qt4": [],
+    "submit": [],
+    "spring-cloud": [],
+    "maven-3": [],
+    "reverse-proxy": [],
+    "ruby-on-rails-3.1": [],
+    "fancybox": [],
+    "sftp": [],
+    "angular7": [],
+    "legend": [],
+    "spyder": [],
+    "openlayers": [],
+    "cgi": [],
+    "distinct": [],
+    "html-email": [],
+    "textfield": [],
+    "linux-device-driver": [],
+    "responsive": [],
+    "spinner": [],
+    "persistence": [],
+    "zurb-foundation": [],
+    "url-routing": [],
+    "segue": [],
+    "eclipselink": [],
+    "href": [],
+    "magento2": [],
+    "hql": [],
+    "special-characters": [],
+    "adapter": [],
+    "sdl": [],
+    "qt-creator": [],
+    "data-analysis": [],
+    "viewmodel": [],
+    "codenameone": [],
+    "android-notifications": [],
+    "nested-loops": [],
+    "geospatial": [],
+    "eval": [],
+    "python-multiprocessing": [],
+    "embed": [],
+    "resharper": [],
+    "alert": [],
+    "webhooks": [],
+    "azure-databricks": [],
+    "integration": [],
+    "netsuite": [],
+    "jbutton": [],
+    "ubuntu-16.04": [],
+    "jhipster": [],
+    "analytics": [],
+    "inno-setup": [],
+    "rails-activerecord": [],
+    "typescript-typings": [],
+    "classpath": [],
+    "sharepoint-2013": [],
+    "xslt-2.0": [],
+    "typescript-generics": [],
+    "quarkus": [],
+    "typeorm": [],
+    "javafx-2": [],
+    "upgrade": [],
+    "nsdate": [],
+    "ubuntu-14.04": [],
+    "stdout": [],
+    "metaprogramming": [],
+    "native": [],
+    "angular2-routing": [],
+    "hiveql": [],
+    "monitoring": [],
+    "mutex": [],
+    "openapi": [],
+    "screenshot": [],
+    "boost-asio": [],
+    "android-mediaplayer": [],
+    "datasource": [],
+    "service-worker": [],
+    "setinterval": [],
+    "bokeh": [],
+    "primeng": [],
+    "cpu": [],
+    "threadpool": [],
+    "hide": [],
+    "return-value": [],
+    "middleware": [],
+    "webbrowser-control": [],
+    "karate": [],
+    "sql-server-2014": [],
+    "mongoid": [],
+    "postgis": [],
+    "sencha-touch": [],
+    "angular8": [],
+    "gunicorn": [],
+    "fabricjs": [],
+    "xml-serialization": [],
+    "mobile-safari": [],
+    "diff": [],
+    "object-detection": [],
+    "embedded-linux": [],
+    "dask": [],
+    "calculator": [],
+    "linear-algebra": [],
+    "crud": [],
+    "angular-ui-bootstrap": [],
+    "outlook-addin": [],
+    "owin": [],
+    "real-time": [],
+    "powerbi-desktop": [],
+    "web-deployment": [],
+    "ngrx": [],
+    "gcloud": [],
+    "spring-kafka": [],
+    "alarmmanager": [],
+    "swagger-ui": [],
+    "soapui": [],
+    "styled-components": [],
+    "intellisense": [],
+    "centos7": [],
+    "apollo": [],
+    "contextmenu": [],
+    "admin": [],
+    "scale": [],
+    "clone": [],
+    "vlookup": [],
+    "laravel-5.1": [],
+    "mp3": [],
+    "imap": [],
+    "nfc": [],
+    "umbraco": [],
+    "log4j2": [],
+    "addeventlistener": [],
+    "tesseract": [],
+    "heatmap": [],
+    "smarty": [],
+    "innodb": [],
+    "uicollectionviewcell": [],
+    "bioinformatics": [],
+    "oledb": [],
+    "cakephp-3.0": [],
+    "collision-detection": [],
+    "share": [],
+    "chatbot": [],
+    "powershell-2.0": [],
+    "plpgsql": [],
+    "dynamics-crm-2011": [],
+    "chromium": [],
+    "whitespace": [],
+    "database-migration": [],
+    "artifactory": [],
+    "wmi": [],
+    "inputstream": [],
+    "mouse": [],
+    "decode": [],
+    "rows": [],
+    "azure-logic-apps": [],
+    "nan": [],
+    "tidyr": [],
+    "gmail-api": [],
+    "rake": [],
+    "ms-access-2007": [],
+    "codeblocks": [],
+    "autofac": [],
+    "rdf": [],
+    "payment-gateway": [],
+    "terraform-provider-aws": [],
+    "antlr": [],
+    "enzyme": [],
+    "game-development": [],
+    "yarnpkg": [],
+    "paperclip": [],
+    "android-imageview": [],
+    "access-token": [],
+    "valgrind": [],
+    "call": [],
+    "qr-code": [],
+    "laravel-5.3": [],
+    "netlogo": [],
+    "iis-7.5": [],
+    "phonegap-plugins": [],
+    "onclicklistener": [],
+    "asp.net-core-2.0": [],
+    "command-prompt": [],
+    "clipboard": [],
+    "junit4": [],
+    "accordion": [],
+    "parquet": [],
+    "orientation": [],
+    "core-animation": [],
+    "ios9": [],
+    "asp.net-mvc-routing": [],
+    "laravel-5.4": [],
+    "flutter-web": [],
+    "python-multithreading": [],
+    "android-permissions": [],
+    "scenekit": [],
+    "rx-java2": [],
+    "drools": [],
+    "uiimagepickercontroller": [],
+    "python-3.7": [],
+    "puppet": [],
+    "rvm": [],
+    "cakephp-2.0": [],
+    "nsdictionary": [],
+    "md5": [],
+    "z-index": [],
+    "raspberry-pi3": [],
+    "symfony4": [],
+    "programming-languages": [],
+    "probability": [],
+    "rdd": [],
+    "liquid": [],
+    "selection": [],
+    "couchbase": [],
+    "phoenix-framework": [],
+    "antlr4": [],
+    "jax-ws": [],
+    "variadic-templates": [],
+    "sharepoint-online": [],
+    "lapply": [],
+    "react-bootstrap": [],
+    "jsonp": [],
+    "spotify": [],
+    "cdi": [],
+    "sublimetext2": [],
+    "log4net": [],
+    "igraph": [],
+    "reverse-engineering": [],
+    "digital-ocean": [],
+    "bind": [],
+    "android-view": [],
+    "message-queue": [],
+    "oracle12c": [],
+    "facebook-like": [],
+    "mean": [],
+    "distance": [],
+    "game-physics": [],
+    "winrt-xaml": [],
+    "symfony1": [],
+    "xcode5": [],
+    "kubernetes-ingress": [],
+    "mdx": [],
+    "python-typing": [],
+    "minecraft": [],
+    "clr": [],
+    "media-player": [],
+    "urllib": [],
+    "iot": [],
+    "hyperledger": [],
+    "data-manipulation": [],
+    "yocto": [],
+    "prisma": [],
+    "stdin": [],
+    "numpy-ndarray": [],
+    "xcode7": [],
+    "entity-framework-5": [],
+    "replication": [],
+    "pyodbc": [],
+    "opengl-es-2.0": [],
+    "manifest": [],
+    "reshape": [],
+    "apache-kafka-connect": [],
+    "unity-container": [],
+    "marklogic": [],
+    "wkwebview": [],
+    "selector": [],
+    "future": [],
+    "google-cloud-sql": [],
+    "redhat": [],
+    "pentaho": [],
+    "ui-automation": [],
+    "ip-address": [],
+    "mean-stack": [],
+    "liquibase": [],
+    "capistrano": [],
+    "cocos2d-x": [],
+    "spacy": [],
+    "httpresponse": [],
+    "firebird": [],
+    "wget": [],
+    "loading": [],
+    "web-component": [],
+    "ninject": [],
+    "azureservicebus": [],
+    "session-variables": [],
+    "matlab-figure": [],
+    "router": [],
+    "game-engine": [],
+    "python-sphinx": [],
+    "sencha-touch-2": [],
+    "reverse": [],
+    "activex": [],
+    "sql-injection": [],
+    "raster": [],
+    "github-api": [],
+    "quartz-scheduler": [],
+    "inline": [],
+    "pinvoke": [],
+    "android-canvas": [],
+    "nvidia": [],
+    "react-testing-library": [],
+    "hadoop-yarn": [],
+    "microcontroller": [],
+    "junit5": [],
+    "updates": [],
+    "logistic-regression": [],
+    "nsuserdefaults": [],
+    "psql": [],
+    "local": [],
+    "nuget-package": [],
+    "angular-routing": [],
+    "avro": [],
+    "gallery": [],
+    "tornado": [],
+    "wicket": [],
+    "background-color": [],
+    "pdfbox": [],
+    "one-to-many": [],
+    "executable": [],
+    "maven-plugin": [],
+    "afnetworking": [],
+    "openid": [],
+    "lookup": [],
+    "logback": [],
+    "kubectl": [],
+    "random-forest": [],
+    "reporting": [],
+    "frame": [],
+    "mvvmcross": [],
+    "c#-3.0": [],
+    "uisearchbar": [],
+    "richfaces": [],
+    "paypal-sandbox": [],
+    "nokogiri": [],
+    "draggable": [],
+    "correlation": [],
+    "excel-2007": [],
+    "windows-8.1": [],
+    "sfml": [],
+    "cs50": [],
+    "facebook-php-sdk": [],
+    "syntax-highlighting": [],
+    "office-interop": [],
+    "mediawiki": [],
+    "export-to-excel": [],
+    "gremlin": [],
+    "physics": [],
+    "drupal-6": [],
+    "uigesturerecognizer": [],
+    "fxml": [],
+    "pyside": [],
+    "argparse": [],
+    "phpexcel": [],
+    "saml": [],
+    "avplayer": [],
+    "html5-audio": [],
+    "activeadmin": [],
+    "xlsx": [],
+    "mern": [],
+    "extension-methods": [],
+    "series": [],
+    "intel": [],
+    "atom-editor": [],
+    "serverless": [],
+    "biztalk": [],
+    "system-verilog": [],
+    "ubuntu-18.04": [],
+    "huggingface-transformers": [],
+    "kerberos": [],
+    "xdebug": [],
+    "playwright": [],
+    "curve-fitting": [],
+    "acumatica": [],
+    "store": [],
+    "ienumerable": [],
+    "eigen": [],
+    "setuptools": [],
+    "increment": [],
+    "office-addins": [],
+    "slideshow": [],
+    "transparency": [],
+    "rgb": [],
+    "draw": [],
+    "jsonschema": [],
+    "deadlock": [],
+    "richtextbox": [],
+    "struts": [],
+    "c++builder": [],
+    "importerror": [],
+    "dropbox": [],
+    "purrr": [],
+    "haml": [],
+    "alfresco": [],
+    "jpql": [],
+    "android-spinner": [],
+    "git-bash": [],
+    "fullscreen": [],
+    "scheduler": [],
+    "use-effect": [],
+    "footer": [],
+    "mathematical-optimization": [],
+    "package.json": [],
+    "backgroundworker": [],
+    "libraries": [],
+    "actionlistener": [],
+    "bazel": [],
+    "ros": [],
+    "aggregation": [],
+    "onchange": [],
+    "k-means": [],
+    "esp32": [],
+    "sqlplus": [],
+    "wait": [],
+    "abap": [],
+    "twisted": [],
+    "plist": [],
+    "html-agility-pack": [],
+    "sublimetext": [],
+    "spatial": [],
+    "move": [],
+    "cloudflare": [],
+    "git-merge": [],
+    "mybatis": [],
+    "font-face": [],
+    "powershell-3.0": [],
+    "center": [],
+    "release": [],
+    "bdd": [],
+    "apollo-client": [],
+    "media": [],
+    "hook-woocommerce": [],
+    "desktop-application": [],
+    "sendgrid": [],
+    "actions-on-google": [],
+    "clickonce": [],
+    "android-adapter": [],
+    "facebook-login": [],
+    "transpose": [],
+    "commit": [],
+    "flink-streaming": [],
+    "mongoose-schema": [],
+    "react-props": [],
+    "datetimepicker": [],
+    "compiler-optimization": [],
+    ".net-assembly": [],
+    "aspectj": [],
+    "magento-1.7": [],
+    "vpn": [],
+    "tls1.2": [],
+    "root": [],
+    "sybase": [],
+    "uuid": [],
+    "arkit": [],
+    "spring-data-mongodb": [],
+    "xunit": [],
+    "whatsapp": [],
+    "tweepy": [],
+    "array-formulas": [],
+    "use-state": [],
+    "grammar": [],
+    "auth0": [],
+    "android-custom-view": [],
+    "gtk3": [],
+    "git-branch": [],
+    "bufferedreader": [],
+    "box2d": [],
+    "blender": [],
+    "actionbarsherlock": [],
+    "slack": [],
+    "webpack-dev-server": [],
+    "hibernate-mapping": [],
+    "multer": [],
+    "jlabel": [],
+    "updatepanel": [],
+    "quicksort": [],
+    "custom-post-type": [],
+    "nested-lists": [],
+    "httpurlconnection": [],
+    "partitioning": [],
+    "lwjgl": [],
+    "cart": [],
+    "mod-wsgi": [],
+    "watchkit": [],
+    "libcurl": [],
+    "repository-pattern": [],
+    "geocoding": [],
+    "background-process": [],
+    "docker-swarm": [],
+    "sleep": [],
+    "vmware": [],
+    "x509certificate": [],
+    "doxygen": [],
+    "android-contentprovider": [],
+    "bouncycastle": [],
+    "nest": [],
+    "dagger-2": [],
+    "encode": [],
+    "gif": [],
+    "factory": [],
+    "visibility": [],
+    "mamp": [],
+    "edit": [],
+    "datetime-format": [],
+    "android-jetpack": [],
+    "virtual": [],
+    "distribution": [],
+    "spring-security-oauth2": [],
+    "versioning": [],
+    "bower": [],
+    "na": [],
+    "google-cloud-pubsub": [],
+    "web-hosting": [],
+    "nexus": [],
+    "userform": [],
+    "react-native-ios": [],
+    "smartcontracts": [],
+    "crop": [],
+    "docx": [],
+    "thumbnails": [],
+    "google-cloud-run": [],
+    "angularfire2": [],
+    "codeigniter-2": [],
+    "dotnet-httpclient": [],
+    "swig": [],
+    "barcode": [],
+    "sql-delete": [],
+    "moodle": [],
+    "file-permissions": [],
+    "typedef": [],
+    "expandablelistview": [],
+    "serverless-framework": [],
+    "mp4": [],
+    "ember-cli": [],
+    "android-toolbar": [],
+    "delphi-7": [],
+    "dashboard": [],
+    "remote-access": [],
+    "uwp-xaml": [],
+    "crm": [],
+    "nsurlconnection": [],
+    "rcpp": [],
+    "offset": [],
+    "sdl-2": [],
+    "e2e-testing": [],
+    "cdn": [],
+    "stdvector": [],
+    "video-processing": [],
+    "pie-chart": [],
+    "anylogic": [],
+    "v8": [],
+    "windows-authentication": [],
+    "min": [],
+    "wireshark": [],
+    "data-mining": [],
+    "conditional-formatting": [],
+    "jndi": [],
+    "dependency-management": [],
+    "flash-builder": [],
+    "delimiter": [],
+    "weka": [],
+    "azure-powershell": [],
+    "identity": [],
+    "binary-search": [],
+    "nio": [],
+    "compatibility": [],
+    "data-annotations": [],
+    "sveltekit": [],
+    "carrierwave": [],
+    "gitignore": [],
+    "rdlc": [],
+    "android-xml": [],
+    "instagram-api": [],
+    "azure-keyvault": [],
+    "obfuscation": [],
+    "matrix-multiplication": [],
+    "firewall": [],
+    "innerhtml": [],
+    "xib": [],
+    "magento-1.9": [],
+    "jenkins-groovy": [],
+    "graphviz": [],
+    "android-drawable": [],
+    "filepath": [],
+    "layout-manager": [],
+    "coq": [],
+    "display": [],
+    "drawable": [],
+    "influxdb": [],
+    "sendmail": [],
+    "raspbian": [],
+    "image-uploading": [],
+    "windbg": [],
+    "file-handling": [],
+    "rvest": [],
+    "jtextfield": [],
+    "device": [],
+    "gd": [],
+    "nspredicate": [],
+    "uwsgi": [],
+    "dapper": [],
+    "slack-api": [],
+    "filereader": [],
+    "urllib2": [],
+    "browserify": [],
+    "database-schema": [],
+    "binaryfiles": [],
+    "tensor": [],
+    "hazelcast": [],
+    "aframe": [],
+    "nsdateformatter": [],
+    "chai": [],
+    "clion": [],
+    "uistoryboard": [],
+    "fs": [],
+    "azure-ad-msal": [],
+    "cpu-usage": [],
+    "graph-databases": [],
+    "fopen": [],
+    "ld": [],
+    "simulink": [],
+    "search-engine": [],
+    "strapi": [],
+    "formik": []
+}
