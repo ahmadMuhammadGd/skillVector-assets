@@ -1,0 +1,219 @@
+{
+    "Cloud Platforms": {
+        "AWS": ["Amazon Web Services"],
+        "GCP": ["Google Cloud Platform"],
+        "Azure": ["Microsoft Azure"],
+        "IBM Cloud": [],
+        "Oracle Cloud": [],
+        "Alibaba Cloud": [],
+        "cloudera": []
+    },
+    "SpreadSheets": {
+        "Excel": [],
+        "Google Sheet": ["GSheet"]
+    },
+    "Data Warehousing": {
+        "Amazon Redshift": ["Redshift"],
+        "Google BigQuery": ["BigQuery"],
+        "Azure Synapse": ["Synapse"],
+        "Snowflake": [],
+        "Teradata": [],
+        "Vertica": [],
+        "Greenplum": [],
+        "ClickHouse": [],
+        "SAP Data Warehouse Cloud": []
+    },
+    "Data Integration/ETL": {
+        "Apache NiFi": ["NiFi"],
+        "Apache Airflow": ["Airflow"],
+        "dagster": [],
+        "perfect": [],
+        "Talend": [],
+        "Informatica": [],
+        "Matillion": [],
+        "Fivetran": [],
+        "Stitch": [],
+        "dbt": ["Data Build Tool"],
+        "Pentaho": [],
+        "DataStage": [],
+        "SSIS": ["SQL Server Integration Services"],
+        "AWS Glue": ["Glue"],
+        "Google Cloud Dataflow": ["Dataflow"],
+        "Azure Data Factory": ["ADF"],
+        "SnapLogic": [],
+        "StreamSets": []
+    },
+    "Data Visualization": {
+        "Google Data Studio": ["Data Studio"],
+        "Tableau": [],
+        "Looker": ["Looker Studio"],
+        "Power BI": ["PBI", "PowerBI"],
+        "Qlik Sense": ["Qlik"],
+        "Chartio": [],
+        "Plotly": [],
+        "Apache Superset": ["Superset"],
+        "Metabase": [],
+        "Redash": [],
+        "MicroStrategy": ["MSTR"],
+        "Sisense": [],
+        "Domo": [],
+        "TIBCO Spotfire": ["Spotfire"],
+        "QlikView": ["Qlik"],
+        "Yellowfin BI": []
+    },
+    "Big Data Processing": {
+        "Apache Spark": ["Spark"],
+        "Hadoop": [],
+        "Apache Flink": ["Flink"],
+        "Apache Storm": ["Storm"],
+        "Google Cloud Dataflow": ["Dataflow"],
+        "Databricks": [],
+        "Presto": [],
+        "Apache Beam": ["Beam"]
+    },
+    "Relational Databases": {
+        "MySQL": [],
+        "PostgreSQL": ["Postgres", "PSQL", "P-SQL"],
+        "SQLite": [],
+        "Microsoft SQL Server": ["SQL Server", "T-SQL", "TSQL"],
+        "Oracle Database": ["Oracle DB"],
+        "MariaDB": [],
+        "Amazon Aurora": ["Aurora"]
+    },
+    "NoSQL Databases": {
+        "MongoDB": ["Mongo"],
+        "Cassandra": [],
+        "DynamoDB": ["Amazon DynamoDB"],
+        "Couchbase": [],
+        "Redis": [],
+        "Elasticsearch": ["Elastic"],
+        "Neo4j": [],
+        "Google Cloud Firestore": ["Firestore"]
+    },
+    "Time-Series Databases": {
+        "InfluxDB": [],
+        "TimescaleDB": [],
+        "OpenTSDB": [],
+        "Prometheus": []
+    },
+    "Graph Databases": {
+        "Neo4j": [],
+        "Amazon Neptune": ["Neptune"],
+        "ArangoDB": [],
+        "Dgraph": []
+    },
+    "Machine Learning/AI Platforms": {
+        "TensorFlow": ["TF"],
+        "PyTorch": [],
+        "Google Vertex AI": ["Vertex AI", "VertexAI"],
+        "AWS SageMaker": ["SageMaker"],
+        "Azure Machine Learning": ["Azure ML", "AzureML"],
+        "H2O.ai": ["H2O"],
+        "DataRobot": [],
+        "MLflow": [],
+        "Keras": [],
+        "OpenAI API": [],
+        "HuggingFace": ["Hugging Face"]
+    },
+    "Streaming/Data Messaging": {
+        "Apache Kafka": ["Kafka"],
+        "RabbitMQ": ["Rabbit"],
+        "Amazon Kinesis": ["Kinesis"],
+        "Google Pub/Sub": ["Pub/Sub"],
+        "Azure Event Hubs": ["Event Hubs"],
+        "Redpanda": [],
+        "ActiveMQ": [],
+        "ZeroMQ": [],
+        "Apache Pulsar": ["Pulsar"]
+    },
+    "Data Governance/Quality": {
+        "Collibra": [],
+        "Alation": [],
+        "Apache Atlas": ["Atlas"],
+        "Dataedo": [],
+        "Talend Data Quality": [],
+        "Great Expectations": ["GE"],
+        "Soda": [],
+        "Trifacta": [],
+        "Ataccama": [],
+        "BigID": []
+    },
+    "Data Modeling": {
+        "Erwin Data Modeler": ["Erwin"],
+        "Toad Data Modeler": ["Toad"],
+        "SAP PowerDesigner": ["PowerDesigner"],
+        "Hackolade": [],
+        "SQLDBM": [],
+        "DBDesigner": [],
+        "DbSchema": [],
+        "Visual Paradigm": []
+    },
+    "Data Monitoring": {
+        "Monte Carlo": [],
+        "Bigeye": [],
+        "Databand": [],
+        "Observability by Databricks": [],
+        "Splunk": [],
+        "Dynatrace": [],
+        "New Relic": []
+    },
+    "Data Storage": {
+        "Amazon S3": ["S3"],
+        "Google Cloud Storage": ["GCS"],
+        "Azure Blob Storage": ["Blob Storage"],
+        "HDFS": ["Hadoop Distributed File System"],
+        "MinIO": [],
+        "NetApp": [],
+        "Dell EMC Isilon": ["Isilon"],
+        "IBM Spectrum Scale": []
+    },
+    "Version Control/Collaboration": {
+        "Git": [],
+        "GitHub": [],
+        "GitLab": [],
+        "Bitbucket": [],
+        "Azure Repos": [],
+        "Subversion": ["SVN"]
+    },
+    "Programming Languages for Data": {
+        "Python": [],
+        "R": [],
+        "SQL": [],
+        "Scala": [],
+        "Java": [],
+        "Julia": [],
+        "MATLAB": [],
+        "SAS": [],
+        "Rust": []
+    },
+    "Containerization": {
+        "Docker": ["Docker Swarm", "Docker Compose"],
+        "K8s": ["Kubernetes"],
+        "Podman": [],
+        "OpenShift": ["Red Hat OpenShift"],
+        "Amazon ECS": ["Elastic Container Service"],
+        "Amazon EKS": ["Elastic Kubernetes Service"],
+        "Google Kubernetes Engine": ["GKE"],
+        "Azure Kubernetes Service": ["AKS"],
+        "Rancher": [],
+        "Nomad": ["HashiCorp Nomad"],
+        "Portainer": [],
+        "CRI-O": [],
+        "Containerd": [],
+        "LXC": ["Linux Containers"],
+        "Kata Containers": [],
+        "Singularity": [],
+        "Mesos": ["Apache Mesos"],
+        "CoreOS": [],
+        "OpenVZ": []
+    },
+    "os": {
+        "Linux":[],
+        "Windows":[],
+        "Mac":[]
+    },
+    "operations": {
+        "ci/cd": ["continuous integration", "continuous development", "continuous delevery"],
+        "GitHub Actions": ["Act"]
+    }
+}
