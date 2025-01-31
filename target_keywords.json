@@ -1,21 +1,890 @@
 {
     "Cloud Platforms": {
-        "AWS": ["Amazon Web Services"],
-        "GCP": ["Google Cloud Platform"],
-        "Azure": ["Microsoft Azure"],
+        "AWS": [
+            "Amazon Web Services"
+        ],
+        "GCP": [
+            "Google Cloud Platform"
+        ],
+        "Azure": [
+            "Microsoft Azure"
+        ],
         "IBM Cloud": [],
         "Oracle Cloud": [],
         "Alibaba Cloud": [],
         "cloudera": []
     },
+    "amazon_web_services": {
+        "Elastic Compute Cloud": [
+            "EC2"
+        ],
+        "Simple Storage Service": [
+            "S3"
+        ],
+        "Relational Database Service": [
+            "RDS"
+        ],
+        "AWS Lambda": [
+            "Lambda"
+        ],
+        "Amazon DynamoDB": [
+            "DynamoDB"
+        ],
+        "Elastic Container Service": [
+            "ECS"
+        ],
+        "Elastic Kubernetes Service": [
+            "EKS"
+        ],
+        "Simple Queue Service": [
+            "SQS"
+        ],
+        "Simple Notification Service": [
+            "SNS"
+        ],
+        "Identity and Access Management": [
+            "IAM"
+        ],
+        "Virtual Private Cloud": [
+            "VPC"
+        ],
+        "AWS CloudFront": [
+            "CloudFront"
+        ],
+        "Amazon Route 53": [
+            "Route 53"
+        ],
+        "Amazon CloudWatch": [
+            "CloudWatch"
+        ],
+        "AWS CloudTrail": [
+            "CloudTrail"
+        ],
+        "Key Management Service": [
+            "KMS"
+        ],
+        "AWS Secrets Manager": [
+            "Secrets Manager"
+        ],
+        "AWS Systems Manager": [
+            "SSM"
+        ],
+        "AWS Glue": [
+            "Glue"
+        ],
+        "Amazon Athena": [
+            "Athena"
+        ],
+        "Amazon Redshift": [
+            "Redshift"
+        ],
+        "Elastic MapReduce": [
+            "EMR"
+        ],
+        "Amazon Kinesis": [
+            "Kinesis"
+        ],
+        "AWS Step Functions": [
+            "Step Functions"
+        ],
+        "Amazon EventBridge": [
+            "EventBridge"
+        ],
+        "AWS App Runner": [
+            "AppRunner"
+        ],
+        "AWS CodePipeline": [
+            "CodePipeline"
+        ],
+        "AWS CodeBuild": [
+            "CodeBuild"
+        ],
+        "AWS CodeDeploy": [
+            "CodeDeploy"
+        ],
+        "AWS CodeCommit": [
+            "CodeCommit"
+        ],
+        "AWS CloudFormation": [
+            "CloudFormation"
+        ],
+        "AWS Elastic Beanstalk": [
+            "Elastic Beanstalk"
+        ],
+        "AWS Auto Scaling": [
+            "Auto Scaling"
+        ],
+        "AWS Backup": [
+            "Backup"
+        ],
+        "AWS Outposts": [
+            "Outposts"
+        ],
+        "AWS Direct Connect": [
+            "Direct Connect"
+        ],
+        "AWS Snowball": [
+            "Snowball"
+        ],
+        "AWS Storage Gateway": [
+            "Storage Gateway"
+        ],
+        "Amazon FSx": [
+            "FSx"
+        ],
+        "Elastic Block Store": [
+            "EBS"
+        ],
+        "Elastic File System": [
+            "EFS"
+        ],
+        "Amazon Timestream": [
+            "Timestream"
+        ],
+        "Amazon DocumentDB": [
+            "DocumentDB"
+        ],
+        "Amazon Neptune": [
+            "Neptune"
+        ],
+        "Amazon Quantum Ledger Database": [
+            "QLDB"
+        ],
+        "Amazon ElastiCache": [
+            "ElastiCache"
+        ],
+        "AWS Cloud9": [
+            "Cloud9"
+        ],
+        "Amazon Lightsail": [
+            "Lightsail"
+        ],
+        "AWS AppSync": [
+            "AppSync"
+        ],
+        "Amazon Cognito": [
+            "Cognito"
+        ],
+        "AWS IoT Core": [
+            "IoT Core"
+        ],
+        "AWS IoT Greengrass": [
+            "Greengrass"
+        ],
+        "Amazon SageMaker": [
+            "SageMaker"
+        ],
+        "Amazon Rekognition": [
+            "Rekognition"
+        ],
+        "Amazon Textract": [
+            "Textract"
+        ],
+        "Amazon Comprehend": [
+            "Comprehend"
+        ],
+        "Amazon Transcribe": [
+            "Transcribe"
+        ],
+        "Amazon Translate": [
+            "Translate"
+        ],
+        "Amazon Lex": [
+            "Lex"
+        ],
+        "Amazon Polly": [
+            "Polly"
+        ],
+        "Amazon Macie": [
+            "Macie"
+        ],
+        "Amazon GuardDuty": [
+            "GuardDuty"
+        ],
+        "Amazon Detective": [
+            "Detective"
+        ],
+        "AWS Security Hub": [
+            "Security Hub"
+        ],
+        "AWS WAF": [
+            "WAF"
+        ],
+        "AWS Shield": [
+            "Shield"
+        ],
+        "Amazon Inspector": [
+            "Inspector"
+        ],
+        "AWS Audit Manager": [
+            "Audit Manager"
+        ],
+        "AWS Certificate Manager": [
+            "Certificate Manager"
+        ],
+        "AWS Glue DataBrew": [
+            "Glue DataBrew"
+        ],
+        "AWS DataSync": [
+            "DataSync"
+        ],
+        "AWS Transfer Family": [
+            "Transfer Family"
+        ],
+        "AWS Migration Hub": [
+            "Migration Hub"
+        ],
+        "AWS SMS": [
+            "Server Migration Service"
+        ],
+        "AWS DMS": [
+            "Database Migration Service"
+        ],
+        "AWS App Mesh": [
+            "App Mesh"
+        ],
+        "AWS Global Accelerator": [
+            "Global Accelerator"
+        ],
+        "AWS ELB": [
+            "Elastic Load Balancing"
+        ],
+        "AWS Organizations": [
+            "Organizations"
+        ],
+        "AWS Control Tower": [
+            "Control Tower"
+        ],
+        "AWS Service Catalog": [
+            "Service Catalog"
+        ],
+        "AWS Marketplace": [
+            "Marketplace"
+        ],
+        "Amazon Personalize": [
+            "Personalize"
+        ],
+        "Amazon Forecast": [
+            "Forecast"
+        ],
+        "Amazon Kendra": [
+            "Kendra"
+        ],
+        "AWS Amplify": [
+            "Amplify"
+        ],
+        "Amazon GameLift": [
+            "GameLift"
+        ],
+        "Amazon WorkSpaces": [
+            "WorkSpaces"
+        ],
+        "Amazon WorkDocs": [
+            "WorkDocs"
+        ],
+        "Amazon WorkMail": [
+            "WorkMail"
+        ],
+        "Amazon AppStream 2.0": [
+            "AppStream 2.0"
+        ],
+        "Amazon Chime": [
+            "Chime"
+        ],
+        "Amazon Connect": [
+            "Connect"
+        ],
+        "Amazon Pinpoint": [
+            "Pinpoint"
+        ],
+        "Simple Email Service": [
+            "SES"
+        ],
+        "AWS Elemental MediaConvert": [
+            "MediaConvert"
+        ],
+        "AWS Elemental MediaLive": [
+            "MediaLive"
+        ],
+        "AWS Elemental MediaPackage": [
+            "MediaPackage"
+        ],
+        "AWS Elemental MediaStore": [
+            "MediaStore"
+        ],
+        "AWS Elemental MediaTailor": [
+            "MediaTailor"
+        ],
+        "AWS Ground Station": [
+            "Ground Station"
+        ],
+        "Amazon Braket": [
+            "Braket"
+        ],
+        "AWS Panorama": [
+            "Panorama"
+        ],
+        "Amazon HealthLake": [
+            "HealthLake"
+        ],
+        "Amazon Lookout for Vision": [
+            "Lookout for Vision"
+        ],
+        "Amazon Lookout for Equipment": [
+            "Lookout for Equipment"
+        ],
+        "Amazon Lookout for Metrics": [
+            "Lookout for Metrics"
+        ],
+        "Amazon Monitron": [
+            "Monitron"
+        ],
+        "AWS Proton": [
+            "Proton"
+        ],
+        "AWS RoboMaker": [
+            "RoboMaker"
+        ],
+        "AWS IoT SiteWise": [
+            "IoT SiteWise"
+        ],
+        "AWS IoT Things Graph": [
+            "IoT Things Graph"
+        ],
+        "AWS IoT TwinMaker": [
+            "IoT TwinMaker"
+        ],
+        "AWS Local Zones": [
+            "Local Zones"
+        ],
+        "AWS Wavelength": [
+            "Wavelength"
+        ],
+        "AWS Savings Plans": [
+            "Savings Plans"
+        ],
+        "AWS Budgets": [
+            "Budgets"
+        ],
+        "AWS Cost Explorer": [
+            "Cost Explorer"
+        ],
+        "AWS Compute Optimizer": [
+            "Compute Optimizer"
+        ],
+        "AWS Application Discovery Service": [
+            "Application Discovery Service"
+        ],
+        "AWS Well-Architected Tool": [
+            "Well-Architected Tool"
+        ],
+        "Amazon quicksight": [
+            "qicksight"
+        ]
+    },
+    "azure services": {
+        "Virtual Machines": [
+            "VM"
+        ],
+        "Azure Kubernetes Service": [
+            "AKS"
+        ],
+        "Azure Container Instances": [
+            "ACI"
+        ],
+        "Azure Functions": [
+            "Functions"
+        ],
+        "Azure App Service": [
+            "App Service"
+        ],
+        "Azure Virtual Network": [
+            "VNet"
+        ],
+        "Azure Load Balancer": [
+            "Load Balancer"
+        ],
+        "Azure Application Gateway": [
+            "Application Gateway"
+        ],
+        "Azure Traffic Manager": [
+            "Traffic Manager"
+        ],
+        "Azure Front Door": [
+            "Front Door"
+        ],
+        "Azure ExpressRoute": [
+            "ExpressRoute"
+        ],
+        "Azure DNS": [
+            "DNS"
+        ],
+        "Azure Storage Accounts": [
+            "Storage"
+        ],
+        "Azure Blob Storage": [
+            "Blob Storage"
+        ],
+        "Azure File Storage": [
+            "File Storage"
+        ],
+        "Azure Queue Storage": [
+            "Queue Storage"
+        ],
+        "Azure Table Storage": [
+            "Table Storage"
+        ],
+        "Azure Data Lake Storage": [
+            "Data Lake Storage"
+        ],
+        "Azure SQL Database": [
+            "SQL Database"
+        ],
+        "Azure Cosmos DB": [
+            "Cosmos DB"
+        ],
+        "Azure Database for MySQL": [
+            "MySQL"
+        ],
+        "Azure Database for PostgreSQL": [
+            "PostgreSQL"
+        ],
+        "Azure Database for MariaDB": [
+            "MariaDB"
+        ],
+        "Azure Synapse Analytics": [
+            "Synapse"
+        ],
+        "Azure HDInsight": [
+            "HDInsight"
+        ],
+        "Azure Databricks": [
+            "Databricks"
+        ],
+        "Azure Data Factory": [
+            "Data Factory"
+        ],
+        "Azure Stream Analytics": [
+            "Stream Analytics"
+        ],
+        "Azure Event Hubs": [
+            "Event Hubs"
+        ],
+        "Azure Service Bus": [
+            "Service Bus"
+        ],
+        "Azure Event Grid": [
+            "Event Grid"
+        ],
+        "Azure Logic Apps": [
+            "Logic Apps"
+        ],
+        "Azure Monitor": [
+            "Monitor"
+        ],
+        "Azure Log Analytics": [
+            "Log Analytics"
+        ],
+        "Azure Application Insights": [
+            "Application Insights"
+        ],
+        "Azure Security Center": [
+            "Security Center"
+        ],
+        "Azure Sentinel": [
+            "Sentinel"
+        ],
+        "Azure Key Vault": [
+            "Key Vault"
+        ],
+        "Azure Active Directory": [
+            "AD"
+        ],
+        "Azure AD B2C": [
+            "AD B2C"
+        ],
+        "Azure Information Protection": [
+            "Information Protection"
+        ],
+        "Azure Defender": [
+            "Defender"
+        ],
+        "Azure Policy": [
+            "Policy"
+        ],
+        "Azure Firewall": [
+            "Firewall"
+        ],
+        "Azure DDoS Protection": [
+            "DDoS Protection"
+        ],
+        "Azure Bastion": [
+            "Bastion"
+        ],
+        "Azure Backup": [
+            "Backup"
+        ],
+        "Azure Site Recovery": [
+            "Site Recovery"
+        ],
+        "Azure Arc": [
+            "Arc"
+        ],
+        "Azure Automation": [
+            "Automation"
+        ],
+        "Azure Lighthouse": [
+            "Lighthouse"
+        ],
+        "Azure Resource Manager": [
+            "ARM"
+        ],
+        "Azure Cost Management": [
+            "Cost Management"
+        ],
+        "Azure DevOps": [
+            "DevOps"
+        ],
+        "Azure Pipelines": [
+            "Pipelines"
+        ],
+        "Azure Repos": [
+            "Repos"
+        ],
+        "Azure Artifacts": [
+            "Artifacts"
+        ],
+        "Azure Boards": [
+            "Boards"
+        ],
+        "Azure Test Plans": [
+            "Test Plans"
+        ],
+        "Azure Machine Learning": [
+            "ML"
+        ],
+        "Azure Cognitive Services": [
+            "Cognitive Services"
+        ],
+        "Azure Bot Services": [
+            "Bot Services"
+        ],
+        "Azure Speech Services": [
+            "Speech Services"
+        ],
+        "Azure Text Analytics": [
+            "Text Analytics"
+        ],
+        "Azure Translator": [
+            "Translator"
+        ],
+        "Azure Form Recognizer": [
+            "Form Recognizer"
+        ],
+        "Azure Computer Vision": [
+            "Computer Vision"
+        ],
+        "Azure Custom Vision": [
+            "Custom Vision"
+        ],
+        "Azure Face API": [
+            "Face API"
+        ],
+        "Azure Personalizer": [
+            "Personalizer"
+        ],
+        "Azure OpenAI Service": [
+            "OpenAI"
+        ],
+        "Azure IoT Hub": [
+            "IoT Hub"
+        ],
+        "Azure IoT Central": [
+            "IoT Central"
+        ],
+        "Azure Digital Twins": [
+            "Digital Twins"
+        ],
+        "Azure Time Series Insights": [
+            "Time Series Insights"
+        ],
+        "Azure Maps": [
+            "Maps"
+        ],
+        "Azure Mixed Reality Services": [
+            "Mixed Reality"
+        ],
+        "Azure Remote Rendering": [
+            "Remote Rendering"
+        ],
+        "Azure Spatial Anchors": [
+            "Spatial Anchors"
+        ],
+        "Azure VMware Solution": [
+            "VMware Solution"
+        ],
+        "Azure Virtual Desktop": [
+            "Virtual Desktop"
+        ],
+        "Azure Lab Services": [
+            "Lab Services"
+        ],
+        "Azure DevTest Labs": [
+            "DevTest Labs"
+        ],
+        "Azure Blockchain Service": [
+            "Blockchain"
+        ],
+        "Azure Confidential Computing": [
+            "Confidential Computing"
+        ],
+        "Azure Managed Applications": [
+            "Managed Applications"
+        ],
+        "Azure Marketplace": [
+            "Marketplace"
+        ],
+        "Azure Well-Architected Framework": [
+            "Well-Architected"
+        ],
+        "Azure Landing Zones": [
+            "Landing Zones"
+        ],
+        "Azure Blueprint": [
+            "Blueprint"
+        ],
+        "Azure Resource Graph": [
+            "Resource Graph"
+        ],
+        "Azure Advisor": [
+            "Advisor"
+        ],
+        "Azure Migrate": [
+            "Migrate"
+        ],
+        "Azure Purview": [
+            "Purview"
+        ],
+        "Azure Digital Marketing": [
+            "Digital Marketing"
+        ],
+        "Azure FarmBeats": [
+            "FarmBeats"
+        ]
+    },
+    "google cloud services": {
+        "Compute Engine": [
+            "CE"
+        ],
+        "Kubernetes Engine": [
+            "GKE"
+        ],
+        "Cloud Run": [
+            "Cloud Run"
+        ],
+        "App Engine": [
+            "App Engine"
+        ],
+        "Cloud Functions": [
+            "Cloud Functions"
+        ],
+        "VPC": [
+            "VPC"
+        ],
+        "Cloud Load Balancing": [
+            "Load Balancing"
+        ],
+        "Cloud CDN": [
+            "CDN"
+        ],
+        "Cloud Interconnect": [
+            "Interconnect"
+        ],
+        "Cloud DNS": [
+            "DNS"
+        ],
+        "Cloud Storage": [
+            "Storage"
+        ],
+        "Filestore": [
+            "Filestore"
+        ],
+        "Persistent Disk": [
+            "Persistent Disk"
+        ],
+        "BigQuery": [
+            "BigQuery"
+        ],
+        "Cloud Spanner": [
+            "Spanner"
+        ],
+        "Cloud SQL": [
+            "SQL"
+        ],
+        "Firestore": [
+            "Firestore"
+        ],
+        "Bigtable": [
+            "Bigtable"
+        ],
+        "Dataproc": [
+            "Dataproc"
+        ],
+        "Dataflow": [
+            "Dataflow"
+        ],
+        "Pub/Sub": [
+            "Pub/Sub"
+        ],
+        "Cloud Tasks": [
+            "Cloud Tasks"
+        ],
+        "Cloud Scheduler": [
+            "Cloud Scheduler"
+        ],
+        "Cloud Composer": [
+            "Composer"
+        ],
+        "Operations Suite": [
+            "Operations Suite"
+        ],
+        "Cloud Logging": [
+            "Logging"
+        ],
+        "Cloud Monitoring": [
+            "Monitoring"
+        ],
+        "Cloud Trace": [
+            "Trace"
+        ],
+        "Cloud Debugger": [
+            "Debugger"
+        ],
+        "Cloud Security Command Center": [
+            "SCC"
+        ],
+        "Identity and Access Management": [
+            "IAM"
+        ],
+        "Cloud Key Management": [
+            "KMS"
+        ],
+        "Secret Manager": [
+            "Secret Manager"
+        ],
+        "Security Command Center": [
+            "SCC"
+        ],
+        "Cloud Armor": [
+            "Cloud Armor"
+        ],
+        "BeyondCorp Enterprise": [
+            "BeyondCorp"
+        ],
+        "Access Transparency": [
+            "Access Transparency"
+        ],
+        "Cloud Build": [
+            "Cloud Build"
+        ],
+        "Cloud Source Repositories": [
+            "Source Repositories"
+        ],
+        "Artifact Registry": [
+            "Artifact Registry"
+        ],
+        "Cloud Deploy": [
+            "Cloud Deploy"
+        ],
+        "Vertex AI": [
+            "Vertex AI"
+        ],
+        "AI Platform": [
+            "AI Platform"
+        ],
+        "Cloud AutoML": [
+            "AutoML"
+        ],
+        "Dialogflow": [
+            "Dialogflow"
+        ],
+        "Speech-to-Text": [
+            "Speech-to-Text"
+        ],
+        "Text-to-Speech": [
+            "Text-to-Speech"
+        ],
+        "Translation API": [
+            "Translation"
+        ],
+        "Vision AI": [
+            "Vision AI"
+        ],
+        "Natural Language API": [
+            "Natural Language"
+        ],
+        "Cloud IoT Core": [
+            "IoT Core"
+        ],
+        "Cloud Healthcare API": [
+            "Healthcare API"
+        ],
+        "Datastream": [
+            "Datastream"
+        ],
+        "Apigee API Management": [
+            "Apigee"
+        ],
+        "Cloud Endpoints": [
+            "Endpoints"
+        ],
+        "Anthos": [
+            "Anthos"
+        ],
+        "Bare Metal Solution": [
+            "Bare Metal"
+        ],
+        "VMware Engine": [
+            "VMware Engine"
+        ],
+        "Workflows": [
+            "Workflows"
+        ],
+        "Looker": [
+            "Looker"
+        ],
+        "Cloud Data Fusion": [
+            "Data Fusion"
+        ],
+        "Cloud Marketplace": [
+            "Marketplace"
+        ],
+        "Migration Center": [
+            "Migration Center"
+        ],
+        "Dataplex": [
+            "Dataplex"
+        ],
+        "Vertex Pipelines": [
+            "Vertex Pipelines"
+        ]
+    },
     "SpreadSheets": {
         "Excel": [],
-        "Google Sheet": ["GSheet"]
+        "Google Sheet": [
+            "GSheet"
+        ]
     },
     "Data Warehousing": {
-        "Amazon Redshift": ["Redshift"],
-        "Google BigQuery": ["BigQuery"],
-        "Azure Synapse": ["Synapse"],
+        "Amazon Redshift": [
+            "Redshift"
+        ],
+        "Google BigQuery": [
+            "BigQuery"
+        ],
+        "Azure Synapse": [
+            "Synapse"
+        ],
         "Snowflake": [],
         "Teradata": [],
         "Vertica": [],
@@ -24,8 +893,12 @@
         "SAP Data Warehouse Cloud": []
     },
     "Data Integration/ETL": {
-        "Apache NiFi": ["NiFi"],
-        "Apache Airflow": ["Airflow"],
+        "Apache NiFi": [
+            "NiFi"
+        ],
+        "Apache Airflow": [
+            "Airflow"
+        ],
         "dagster": [],
         "perfect": [],
         "Talend": [],
@@ -33,62 +906,120 @@
         "Matillion": [],
         "Fivetran": [],
         "Stitch": [],
-        "dbt": ["Data Build Tool"],
+        "airbytes": [],
+        "dbt": [
+            "Data Build Tool"
+        ],
         "Pentaho": [],
         "DataStage": [],
-        "SSIS": ["SQL Server Integration Services"],
-        "AWS Glue": ["Glue"],
-        "Google Cloud Dataflow": ["Dataflow"],
-        "Azure Data Factory": ["ADF"],
+        "SSIS": [
+            "SQL Server Integration Services"
+        ],
+        "AWS Glue": [
+            "Glue"
+        ],
+        "Google Cloud Dataflow": [
+            "Dataflow"
+        ],
+        "Azure Data Factory": [
+            "ADF"
+        ],
         "SnapLogic": [],
         "StreamSets": []
     },
     "Data Visualization": {
-        "Google Data Studio": ["Data Studio"],
+        "Google Data Studio": [
+            "Data Studio"
+        ],
         "Tableau": [],
-        "Looker": ["Looker Studio"],
-        "Power BI": ["PBI", "PowerBI"],
-        "Qlik Sense": ["Qlik"],
+        "Looker": [
+            "Looker Studio"
+        ],
+        "Power BI": [
+            "PBI",
+            "PowerBI"
+        ],
+        "Qlik Sense": [
+            "Qlik"
+        ],
         "Chartio": [],
         "Plotly": [],
-        "Apache Superset": ["Superset"],
+        "Apache Superset": [
+            "Superset"
+        ],
         "Metabase": [],
         "Redash": [],
-        "MicroStrategy": ["MSTR"],
+        "MicroStrategy": [
+            "MSTR"
+        ],
         "Sisense": [],
         "Domo": [],
-        "TIBCO Spotfire": ["Spotfire"],
-        "QlikView": ["Qlik"],
+        "TIBCO Spotfire": [
+            "Spotfire"
+        ],
+        "QlikView": [
+            "Qlik"
+        ],
         "Yellowfin BI": []
     },
     "Big Data Processing": {
-        "Apache Spark": ["Spark"],
+        "Apache Spark": [
+            "Spark"
+        ],
         "Hadoop": [],
-        "Apache Flink": ["Flink"],
-        "Apache Storm": ["Storm"],
-        "Google Cloud Dataflow": ["Dataflow"],
+        "Apache Flink": [
+            "Flink"
+        ],
+        "Apache Storm": [
+            "Storm"
+        ],
+        "Google Cloud Dataflow": [
+            "Dataflow"
+        ],
         "Databricks": [],
         "Presto": [],
-        "Apache Beam": ["Beam"]
+        "Apache Beam": [
+            "Beam"
+        ]
     },
     "Relational Databases": {
         "MySQL": [],
-        "PostgreSQL": ["Postgres", "PSQL", "P-SQL"],
+        "PostgreSQL": [
+            "Postgres",
+            "PSQL",
+            "P-SQL"
+        ],
         "SQLite": [],
-        "Microsoft SQL Server": ["SQL Server", "T-SQL", "TSQL"],
-        "Oracle Database": ["Oracle DB"],
+        "Microsoft SQL Server": [
+            "SQL Server",
+            "T-SQL",
+            "TSQL"
+        ],
+        "Oracle Database": [
+            "Oracle DB"
+        ],
         "MariaDB": [],
-        "Amazon Aurora": ["Aurora"]
+        "Amazon Aurora": [
+            "Aurora"
+        ]
     },
     "NoSQL Databases": {
-        "MongoDB": ["Mongo"],
+        "MongoDB": [
+            "Mongo"
+        ],
         "Cassandra": [],
-        "DynamoDB": ["Amazon DynamoDB"],
+        "DynamoDB": [
+            "Amazon DynamoDB"
+        ],
         "Couchbase": [],
         "Redis": [],
-        "Elasticsearch": ["Elastic"],
+        "Elasticsearch": [
+            "Elastic"
+        ],
         "Neo4j": [],
-        "Google Cloud Firestore": ["Firestore"]
+        "Google Cloud Firestore": [
+            "Firestore"
+        ]
     },
     "Time-Series Databases": {
         "InfluxDB": [],
@@ -98,50 +1029,88 @@
     },
     "Graph Databases": {
         "Neo4j": [],
-        "Amazon Neptune": ["Neptune"],
+        "Amazon Neptune": [
+            "Neptune"
+        ],
         "ArangoDB": [],
         "Dgraph": []
     },
     "Machine Learning/AI Platforms": {
-        "TensorFlow": ["TF"],
+        "TensorFlow": [
+            "TF"
+        ],
         "PyTorch": [],
-        "Google Vertex AI": ["Vertex AI", "VertexAI"],
-        "AWS SageMaker": ["SageMaker"],
-        "Azure Machine Learning": ["Azure ML", "AzureML"],
-        "H2O.ai": ["H2O"],
+        "Google Vertex AI": [
+            "Vertex AI",
+            "VertexAI"
+        ],
+        "AWS SageMaker": [
+            "SageMaker"
+        ],
+        "Azure Machine Learning": [
+            "Azure ML",
+            "AzureML"
+        ],
+        "H2O.ai": [
+            "H2O"
+        ],
         "DataRobot": [],
         "MLflow": [],
         "Keras": [],
         "OpenAI API": [],
-        "HuggingFace": ["Hugging Face"]
+        "HuggingFace": [
+            "Hugging Face"
+        ]
     },
     "Streaming/Data Messaging": {
-        "Apache Kafka": ["Kafka"],
-        "RabbitMQ": ["Rabbit"],
-        "Amazon Kinesis": ["Kinesis"],
-        "Google Pub/Sub": ["Pub/Sub"],
-        "Azure Event Hubs": ["Event Hubs"],
+        "Apache Kafka": [
+            "Kafka"
+        ],
+        "RabbitMQ": [
+            "Rabbit"
+        ],
+        "Amazon Kinesis": [
+            "Kinesis"
+        ],
+        "Google Pub/Sub": [
+            "Pub/Sub"
+        ],
+        "Azure Event Hubs": [
+            "Event Hubs"
+        ],
         "Redpanda": [],
         "ActiveMQ": [],
         "ZeroMQ": [],
-        "Apache Pulsar": ["Pulsar"]
+        "Apache Pulsar": [
+            "Pulsar"
+        ]
     },
     "Data Governance/Quality": {
         "Collibra": [],
         "Alation": [],
-        "Apache Atlas": ["Atlas"],
+        "Apache Atlas": [
+            "Atlas"
+        ],
         "Dataedo": [],
         "Talend Data Quality": [],
-        "Great Expectations": ["GE"],
+        "Great Expectations": [
+            "GE"
+        ],
         "Soda": [],
         "Trifacta": [],
         "Ataccama": [],
         "BigID": []
     },
     "Data Modeling": {
-        "Erwin Data Modeler": ["Erwin"],
-        "Toad Data Modeler": ["Toad"],
-        "SAP PowerDesigner": ["PowerDesigner"],
+        "Erwin Data Modeler": [
+            "Erwin"
+        ],
+        "Toad Data Modeler": [
+            "Toad"
+        ],
+        "SAP PowerDesigner": [
+            "PowerDesigner"
+        ],
         "Hackolade": [],
         "SQLDBM": [],
         "DBDesigner": [],
@@ -158,13 +1127,23 @@
         "New Relic": []
     },
     "Data Storage": {
-        "Amazon S3": ["S3"],
-        "Google Cloud Storage": ["GCS"],
-        "Azure Blob Storage": ["Blob Storage"],
-        "HDFS": ["Hadoop Distributed File System"],
+        "Amazon S3": [
+            "S3"
+        ],
+        "Google Cloud Storage": [
+            "GCS"
+        ],
+        "Azure Blob Storage": [
+            "Blob Storage"
+        ],
+        "HDFS": [
+            "Hadoop Distributed File System"
+        ],
         "MinIO": [],
         "NetApp": [],
-        "Dell EMC Isilon": ["Isilon"],
+        "Dell EMC Isilon": [
+            "Isilon"
+        ],
         "IBM Spectrum Scale": []
     },
     "Version Control/Collaboration": {
@@ -173,7 +1152,9 @@
         "GitLab": [],
         "Bitbucket": [],
         "Azure Repos": [],
-        "Subversion": ["SVN"]
+        "Subversion": [
+            "SVN"
+        ]
     },
     "Programming Languages for Data": {
         "Python": [],
@@ -187,33 +1168,60 @@
         "Rust": []
     },
     "Containerization": {
-        "Docker": ["Docker Swarm", "Docker Compose"],
-        "K8s": ["Kubernetes"],
+        "Docker": [
+            "Docker Swarm",
+            "Docker Compose"
+        ],
+        "K8s": [
+            "Kubernetes"
+        ],
         "Podman": [],
-        "OpenShift": ["Red Hat OpenShift"],
-        "Amazon ECS": ["Elastic Container Service"],
-        "Amazon EKS": ["Elastic Kubernetes Service"],
-        "Google Kubernetes Engine": ["GKE"],
-        "Azure Kubernetes Service": ["AKS"],
+        "OpenShift": [
+            "Red Hat OpenShift"
+        ],
+        "Amazon ECS": [
+            "Elastic Container Service"
+        ],
+        "Amazon EKS": [
+            "Elastic Kubernetes Service"
+        ],
+        "Google Kubernetes Engine": [
+            "GKE"
+        ],
+        "Azure Kubernetes Service": [
+            "AKS"
+        ],
         "Rancher": [],
-        "Nomad": ["HashiCorp Nomad"],
+        "Nomad": [
+            "HashiCorp Nomad"
+        ],
         "Portainer": [],
         "CRI-O": [],
         "Containerd": [],
-        "LXC": ["Linux Containers"],
+        "LXC": [
+            "Linux Containers"
+        ],
         "Kata Containers": [],
         "Singularity": [],
-        "Mesos": ["Apache Mesos"],
+        "Mesos": [
+            "Apache Mesos"
+        ],
         "CoreOS": [],
         "OpenVZ": []
     },
     "os": {
-        "Linux":[],
-        "Windows":[],
-        "Mac":[]
+        "Linux": [],
+        "Windows": [],
+        "Mac": []
     },
     "operations": {
-        "ci/cd": ["continuous integration", "continuous development", "continuous delevery"],
-        "GitHub Actions": ["Act"]
+        "ci/cd": [
+            "continuous integration",
+            "continuous development",
+            "continuous delevery"
+        ],
+        "GitHub Actions": [
+            "Act"
+        ]
     }
 }
