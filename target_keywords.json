@@ -876,15 +876,6 @@
         ]
     },
     "Data Warehousing": {
-        "Amazon Redshift": [
-            "Redshift"
-        ],
-        "Google BigQuery": [
-            "BigQuery"
-        ],
-        "Azure Synapse": [
-            "Synapse"
-        ],
         "Snowflake": [],
         "Teradata": [],
         "Vertica": [],
@@ -998,28 +989,19 @@
         "Oracle Database": [
             "Oracle DB"
         ],
-        "MariaDB": [],
-        "Amazon Aurora": [
-            "Aurora"
-        ]
+        "MariaDB": []
     },
     "NoSQL Databases": {
         "MongoDB": [
             "Mongo"
         ],
         "Cassandra": [],
-        "DynamoDB": [
-            "Amazon DynamoDB"
-        ],
         "Couchbase": [],
         "Redis": [],
         "Elasticsearch": [
             "Elastic"
         ],
-        "Neo4j": [],
-        "Google Cloud Firestore": [
-            "Firestore"
-        ]
+        "Neo4j": []
     },
     "Time-Series Databases": {
         "InfluxDB": [],
@@ -1029,9 +1011,6 @@
     },
     "Graph Databases": {
         "Neo4j": [],
-        "Amazon Neptune": [
-            "Neptune"
-        ],
         "ArangoDB": [],
         "Dgraph": []
     },
@@ -1068,15 +1047,6 @@
         ],
         "RabbitMQ": [
             "Rabbit"
-        ],
-        "Amazon Kinesis": [
-            "Kinesis"
-        ],
-        "Google Pub/Sub": [
-            "Pub/Sub"
-        ],
-        "Azure Event Hubs": [
-            "Event Hubs"
         ],
         "Redpanda": [],
         "ActiveMQ": [],
@@ -1127,15 +1097,6 @@
         "New Relic": []
     },
     "Data Storage": {
-        "Amazon S3": [
-            "S3"
-        ],
-        "Google Cloud Storage": [
-            "GCS"
-        ],
-        "Azure Blob Storage": [
-            "Blob Storage"
-        ],
         "HDFS": [
             "Hadoop Distributed File System"
         ],
@@ -1178,18 +1139,6 @@
         "Podman": [],
         "OpenShift": [
             "Red Hat OpenShift"
-        ],
-        "Amazon ECS": [
-            "Elastic Container Service"
-        ],
-        "Amazon EKS": [
-            "Elastic Kubernetes Service"
-        ],
-        "Google Kubernetes Engine": [
-            "GKE"
-        ],
-        "Azure Kubernetes Service": [
-            "AKS"
         ],
         "Rancher": [],
         "Nomad": [
